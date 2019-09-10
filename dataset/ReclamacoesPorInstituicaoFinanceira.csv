@@ -1,0 +1,792 @@
+Ano;Trimestre;Categoria;Tipo;CNPJ IF;Instituição financeira;Índice;Quantidade de reclamações reguladas procedentes;Quantidade de reclamações reguladas - outras;Quantidade de reclamações não reguladas;Quantidade total de reclamações;Quantidade total de clientes – CCS e SCR;Quantidade de clientes – CCS;Quantidade de clientes – SCR;Quantidade de clientes – FGC
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;ABC-BRASIL (conglomerado); ;0;3;4;7;15653;14377;3090;2846
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;AGIPLAN (conglomerado);50,22;16;42;75;133;318590;27202;302079;3257
+2017;1º;Menos de quatro milhões de clientes;Banco/financeira;36321990;AGORACRED S/A SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;0;0;1;1;178402; ;178402; 
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;ALFA (conglomerado);31,2;15;22;34;71;480685;268776;213888;0
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;ANDBANK (conglomerado); ;0;0;2;2;6870;1052;5822;89
+2017;1º;Menos de quatro milhões de clientes;Banco/financeira;23862762;AVISTA S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;0;0;1;1;119163; ;119163; 
+2017;1º;Menos de quatro milhões de clientes;Banco/financeira;92874270;BANCO A.J. RENNER S.A.; ;0;3;4;7;108228;6212;102328;2005
+2017;1º;Menos de quatro milhões de clientes;Banco/financeira;54403563;BANCO ARBI S.A.; ;1;0;0;1;6047;398;5683;235
+2017;1º;Menos de quatro milhões de clientes;Banco/financeira;997185;BANCO BM&FBOVESPA DE SERVIÇOS DE LIQUIDAÇÃO E CUSTÓDIA S.A.; ;0;0;1;1;770;770; ;35
+2017;1º;Menos de quatro milhões de clientes;Banco/financeira;71027866;BANCO BONSUCESSO S.A.; ;1;57;16;74;36673;4008;32796;1782
+2017;1º;Menos de quatro milhões de clientes;Banco/financeira;27098060;BANCO CBSS S.A.; ;12;27;39;78;1574006; ;1574006; 
+2017;1º;Menos de quatro milhões de clientes;Banco/financeira;2992446;BANCO CNH INDUSTRIAL CAPITAL S.A.; ;0;2;2;4;27266;1579;26225; 
+2017;1º;Menos de quatro milhões de clientes;Banco/financeira;8357240;BANCO CSF S.A.;7,87;25;33;77;135;3175885; ;3175885; 
+2017;1º;Menos de quatro milhões de clientes;Banco/financeira;4902979;BANCO DA AMAZONIA S.A.; ;0;3;11;14;504862;420227;179261;278867
+2017;1º;Menos de quatro milhões de clientes;Banco/financeira;5040481;BANCO DE LAGE LANDEN BRASIL S.A.; ;1;0;2;3;44774;1;44773; 
+2017;1º;Menos de quatro milhões de clientes;Banco/financeira;13009717;BANCO DO ESTADO DE SERGIPE S.A.;19,28;18;21;8;47;933585;829607;370852;626597
+2017;1º;Menos de quatro milhões de clientes;Banco/financeira;4913711;BANCO DO ESTADO DO PARÁ S.A.; ;8;19;19;46;659539;650178;205378;578340
+2017;1º;Mais de quatro milhões de clientes;Banco/financeira;7237373;BANCO DO NORDESTE DO BRASIL S.A.;0,5;3;12;29;44;5908110;5728770;1015309;4408404
+2017;1º;Menos de quatro milhões de clientes;Banco/financeira;58616418;BANCO FIBRA S.A.; ;1;5;10;16;174487;4284;170648;1328
+2017;1º;Menos de quatro milhões de clientes;Banco/financeira;61348538;BANCO FICSA S.A.; ;2;0;2;4;31223;637;30590;43
+2017;1º;Menos de quatro milhões de clientes;Banco/financeira;62237425;BANCO FIDIS S/A; ;0;0;4;4;4033;367;3677; 
+2017;1º;Menos de quatro milhões de clientes;Banco/financeira;90731688;BANCO FORD S.A.; ;0;1;0;1;349;83;270; 
+2017;1º;Menos de quatro milhões de clientes;Banco/financeira;31880826;BANCO GUANABARA S.A.; ;0;0;2;2;2427;2374;347;338
+2017;1º;Menos de quatro milhões de clientes;Banco/financeira;34270520;BANCO IBM S.A.; ;0;1;0;1;1166;1;1166; 
+2017;1º;Menos de quatro milhões de clientes;Banco/financeira;253448;BANCO NEON S.A.; ;3;2;9;14;38637;38637; ;511
+2017;1º;Menos de quatro milhões de clientes;Banco/financeira;795423;BANCO SEMEAR S.A.; ;0;2;5;7;438143;3868;434498;1354
+2017;1º;Menos de quatro milhões de clientes;Banco/financeira;7679404;BANCO TOPÁZIO S.A.; ;0;1;3;4;21810;3433;19247;636
+2017;1º;Menos de quatro milhões de clientes;Banco/financeira;3215790;BANCO TOYOTA DO BRASIL S.A.; ;0;1;9;10;136135;15161;123041; 
+2017;1º;Menos de quatro milhões de clientes;Banco/financeira;17351180;BANCO TRIANGULO S.A.;13,57;17;4;5;26;1252028;163599;1102033;14424
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;BANCOOB (conglomerado); ;4;25;29;58;1770960;1094401;781721;0
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;BANESTES (conglomerado); ;9;3;7;19;1298766;1174339;417752;860492
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;BANIF (conglomerado); ;0;0;1;1;2583;2582;13;1491
+2017;1º;Mais de quatro milhões de clientes;Conglomerado; ;BANRISUL (conglomerado);13,37;59;187;120;366;4410257;3270006;2395281;2462909
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;BARIGUI (conglomerado); ;2;12;0;14;32387; ;32387; 
+2017;1º;Mais de quatro milhões de clientes;Conglomerado; ;BB (conglomerado);25,84;1536;3138;4943;9617;59432237;55626795;23432200;48279386
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;BMG (conglomerado);31,44;107;408;344;859;3402623;16652;3388429;5588
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;BMW (conglomerado); ;0;1;0;1;18428; ;18428; 
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;BNP PARIBAS (conglomerado);49,42;135;569;464;1168;2731519;16281;2715679;2350
+2017;1º;Mais de quatro milhões de clientes;Conglomerado; ;BRADESCO (conglomerado);25,82;2379;3850;4615;10844;92106865;76891519;45837814;34576814
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;BRB (conglomerado);52,34;43;109;206;358;821430;714248;367493;588333
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;BTG PACTUAL (conglomerado); ;0;0;2;2;40663;40585;400;4846
+2017;1º;Mais de quatro milhões de clientes;Conglomerado; ;CAIXA ECONÔMICA FEDERAL (conglomerado);24,61;2068;2763;5973;10804;84016461;81009634;17912518;73507354
+2017;1º;Menos de quatro milhões de clientes;Banco/financeira;9313766;CARUANA S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;0;0;1;1;7518; ;7518; 
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;CCB (conglomerado); ;11;150;123;284;328050;8109;321197;3666
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;CITIBANK (conglomerado);46,64;61;130;159;350;1307799;558855;919891;209719
+2017;1º;Menos de quatro milhões de clientes;Banco/financeira;60779196;CREFISA S.A.-CREDITO, FINANCIAMENTO E INVESTIMENTOS; ;13;71;33;117;1452166; ;1452166; 
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;DACASA FINANCEIRA (conglomerado); ;2;6;7;15;1198038; ;1198038; 
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;DAYCOVAL (conglomerado);25,93;23;355;173;551;886863;48354;844599;15087
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;DEUTSCHE (conglomerado); ;0;1;0;1;4043;4032;146;398
+2017;1º;Menos de quatro milhões de clientes;Banco/financeira;15581638;FACTA FINANCEIRA S.A. - CRÉDITO FINANCIAMENTO E INVESTIMENTO; ;11;8;6;25;24896; ;24896; 
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;FATOR (conglomerado); ;0;0;1;1;10677;10675;26;2177
+2017;1º;Menos de quatro milhões de clientes;Banco/financeira;411939;FINAMAX S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO; ;0;1;4;5;98684; ;98684; 
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;FINAXIS (conglomerado); ;0;1;0;1;3710;3710;8;378
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;GMAC (conglomerado); ;4;11;44;59;497344;654;496781; 
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;GRUPO ZEMA (conglomerado); ;0;0;1;1;135955; ;135955; 
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;HERVAL - HS (conglomerado); ;1;0;2;3;235565; ;235565; 
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;HONDA (conglomerado); ;2;3;19;24;453144;19;453130; 
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;INDUSTRIAL DO BRASIL (conglomerado); ;2;6;4;12;56726;4112;53157;858
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;INDUSVAL (conglomerado); ;0;2;0;2;6911;6218;1235;2607
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;INTERMEDIUM (conglomerado); ;10;144;56;210;330435;110008;233768;34078
+2017;1º;Mais de quatro milhões de clientes;Conglomerado; ;ITAU (conglomerado);18,66;1279;3872;4124;9275;68531765;49220585;40413962;28830155
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;LECCA (conglomerado); ;0;2;1;3;22383; ;22383; 
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;MERCANTIL DO BRASIL (conglomerado);22,31;51;187;135;373;2285143;1725844;994327;1303140
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;MERCEDES-BENZ (conglomerado); ;0;1;3;4;26987;51;26979; 
+2017;1º;Mais de quatro milhões de clientes;Banco/financeira;9464032;MIDWAY S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO;1,23;8;24;30;62;6451982; ;6451982; 
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;MODAL (conglomerado); ;0;1;3;4;5170;5111;160;1761
+2017;1º;Menos de quatro milhões de clientes;Banco/financeira;4379829;NEGRESCO S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTOS; ;0;1;0;1;482371; ;482371; 
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;OMNI (conglomerado); ;6;24;58;88;3183466; ;3183466; 
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;ORIGINAL (conglomerado); ;0;50;67;117;373893;294124;130538;46948
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;OURINVEST (conglomerado); ;1;0;0;1;16543;13944;2603; 
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;PAN (conglomerado);104,5;316;818;883;2017;3023698;15643;3009858;2052
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;PARANÁ BANCO (conglomerado);90,16;57;177;72;306;632181;5311;627149;2139
+2017;1º;Menos de quatro milhões de clientes;Banco/financeira;3311443;PARATI - CREDITO, FINANCIAMENTO E INVESTIMENTO S.A.; ;0;0;1;1;911; ;911; 
+2017;1º;Mais de quatro milhões de clientes;Conglomerado; ;PERNAMBUCANAS (conglomerado);0,91;4;14;27;45;4374493; ;4374493; 
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;PINE (conglomerado); ;0;1;0;1;3954;3361;893;1190
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;PORTO SEGURO (conglomerado);35,15;43;17;59;119;1223017; ;1223017; 
+2017;1º;Menos de quatro milhões de clientes;Banco/financeira;1800019;PORTOCRED S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO; ;3;10;12;25;136246; ;136246; 
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;RENDIMENTO (conglomerado); ;0;7;2;9;17439;10814;8191;3788
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;RODOBENS (conglomerado); ;0;0;5;5;16847;7314;13463;398
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;SAFRA (conglomerado);107,1;104;273;237;614;971010;287313;735183;88033
+2017;1º;Menos de quatro milhões de clientes;Banco/financeira;5503849;SANTANA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;1;1;5;7;27995; ;27995; 
+2017;1º;Mais de quatro milhões de clientes;Conglomerado; ;SANTANDER (conglomerado);21,87;821;2548;2837;6206;37527740;32020395;13865877;24362717
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;SANTINVEST (conglomerado); ;4;5;2;11;11575; ;11575; 
+2017;1º;Menos de quatro milhões de clientes;Banco/financeira;7747410;SAX S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;0;2;12;14;289468; ;289468; 
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;SCANIA (conglomerado); ;0;0;2;2;3866;204;3855; 
+2017;1º;Menos de quatro milhões de clientes;Banco/financeira;11970623;SENFF S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;0;0;2;2;42826; ;42826; 
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;SICREDI (conglomerado); ;0;0;1;1;2809169;2781313;107759;0
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;SOCIETE GENERALE (conglomerado); ;3;7;15;25;1593953;938;1593095;61
+2017;1º;Menos de quatro milhões de clientes;Banco/financeira;3881423;SOCINAL S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;0;1;0;1;1638; ;1638; 
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;SOCOPA (conglomerado); ;0;1;1;2;24946;9415;15736;2223
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;SOFISA (conglomerado); ;0;1;7;8;61599;50650;12192;23769
+2017;1º;Menos de quatro milhões de clientes;Banco/financeira;4814563;SOROCRED   CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.; ;4;4;17;25;336140; ;336140; 
+2017;1º;Menos de quatro milhões de clientes;Banco/financeira;5192316;VIA CERTA FINANCIADORA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTOS; ;1;1;0;2;279160; ;279160; 
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;VOLKSWAGEN (conglomerado); ;2;14;37;53;494593;1391;493542; 
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;VOLVO (conglomerado); ;0;0;1;1;10259;119;10251; 
+2017;1º;Mais de quatro milhões de clientes;Conglomerado; ;VOTORANTIM (conglomerado);7,78;32;258;272;562;4109589;17884;4093510;4413
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;WESTERN UNION (conglomerado); ;1;3;1;5;3;3; ;1
+2017;1º;Menos de quatro milhões de clientes;Conglomerado; ;YAMAHA MOTOR (conglomerado); ;0;12;2;14;105588;63;105526; 
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;ABC-BRASIL (conglomerado); ;0;0;2;2;15602;14335;3073;2846
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;AGIPLAN (conglomerado);130,84;47;56;66;169;359217;39444;338497;3257
+2017;2º;Menos de quatro milhões de clientes;Banco/financeira;36321990;AGORACRED S/A SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;1;1;0;2;186769; ;186769; 
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;ALFA (conglomerado);50,99;24;32;33;89;470652;268755;203795;0
+2017;2º;Menos de quatro milhões de clientes;Banco/financeira;23862762;AVISTA S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;0;0;4;4;181479; ;181479; 
+2017;2º;Menos de quatro milhões de clientes;Banco/financeira;92874270;BANCO A.J. RENNER S.A.; ;0;1;3;4;109329;6177;103462;2005
+2017;2º;Menos de quatro milhões de clientes;Banco/financeira;54403563;BANCO ARBI S.A.; ;1;1;0;2;6084;416;5703;235
+2017;2º;Menos de quatro milhões de clientes;Banco/financeira;997185;BANCO BM&FBOVESPA DE SERVIÇOS DE LIQUIDAÇÃO E CUSTÓDIA S.A.; ;0;0;1;1;768;768; ;35
+2017;2º;Menos de quatro milhões de clientes;Banco/financeira;71027866;BANCO BONSUCESSO S.A.; ;1;62;14;77;30615;4039;26716;1782
+2017;2º;Menos de quatro milhões de clientes;Banco/financeira;27098060;BANCO CBSS S.A.;10,67;17;47;38;102;1592248; ;1592248; 
+2017;2º;Menos de quatro milhões de clientes;Banco/financeira;2992446;BANCO CNH INDUSTRIAL CAPITAL S.A.; ;0;0;3;3;26426;1525;25411; 
+2017;2º;Menos de quatro milhões de clientes;Banco/financeira;8357240;BANCO CSF S.A.; ;13;46;71;130;3236030; ;3236030; 
+2017;2º;Menos de quatro milhões de clientes;Banco/financeira;4902979;BANCO DA AMAZONIA S.A.; ;3;5;7;15;501409;419519;175641;278867
+2017;2º;Menos de quatro milhões de clientes;Banco/financeira;5040481;BANCO DE LAGE LANDEN BRASIL S.A.; ;0;0;1;1;43812;1;43811; 
+2017;2º;Menos de quatro milhões de clientes;Banco/financeira;60498557;BANCO DE TOKYO-MITSUBISHI UFJ BRASIL S.A.; ;0;0;1;1;2272;2246;110;0
+2017;2º;Menos de quatro milhões de clientes;Banco/financeira;13009717;BANCO DO ESTADO DE SERGIPE S.A.;28,82;27;20;9;56;936662;834789;366114;626597
+2017;2º;Menos de quatro milhões de clientes;Banco/financeira;4913711;BANCO DO ESTADO DO PARÁ S.A.; ;7;16;30;53;659192;645511;212568;578340
+2017;2º;Mais de quatro milhões de clientes;Banco/financeira;7237373;BANCO DO NORDESTE DO BRASIL S.A.;0;0;12;31;43;6033876;5859577;1010408;4408404
+2017;2º;Menos de quatro milhões de clientes;Banco/financeira;58616418;BANCO FIBRA S.A.; ;4;12;6;22;173999;4209;170223;1328
+2017;2º;Menos de quatro milhões de clientes;Banco/financeira;62237425;BANCO FIDIS S/A; ;0;1;2;3;3787;365;3431; 
+2017;2º;Menos de quatro milhões de clientes;Banco/financeira;90731688;BANCO FORD S.A.; ;0;0;1;1;347;83;268; 
+2017;2º;Menos de quatro milhões de clientes;Banco/financeira;253448;BANCO NEON S.A.; ;4;3;14;21;80061;78804;1462;511
+2017;2º;Menos de quatro milhões de clientes;Banco/financeira;40429946;BANCO PORTO REAL DE INVESTIMENTOS S.A; ;0;0;1;1;50;8;42;0
+2017;2º;Menos de quatro milhões de clientes;Banco/financeira;1023570;BANCO RABOBANK INTERNATIONAL BRASIL S.A.; ;0;1;0;1;3954;3714;1681;0
+2017;2º;Menos de quatro milhões de clientes;Banco/financeira;795423;BANCO SEMEAR S.A.; ;0;2;3;5;448857;3798;445277;1354
+2017;2º;Menos de quatro milhões de clientes;Banco/financeira;7679404;BANCO TOPÁZIO S.A.; ;0;1;6;7;22514;4147;19441;636
+2017;2º;Menos de quatro milhões de clientes;Banco/financeira;3215790;BANCO TOYOTA DO BRASIL S.A.; ;1;5;6;12;134647;15187;121388; 
+2017;2º;Menos de quatro milhões de clientes;Banco/financeira;17351180;BANCO TRIANGULO S.A.; ;12;9;3;24;1328097;164794;1177029;14424
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;BANCOOB (conglomerado); ;4;21;32;57;1862163;1140380;836150;0
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;BANESTES (conglomerado);13,73;18;3;14;35;1310617;1186820;418833;860492
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;BANIF (conglomerado); ;0;0;5;5;1306;1305;13;1491
+2017;2º;Mais de quatro milhões de clientes;Conglomerado; ;BANRISUL (conglomerado);15,86;71;277;156;504;4474462;3305143;2443070;2462909
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;BARIGUI (conglomerado); ;4;8;1;13;32008; ;32008; 
+2017;2º;Mais de quatro milhões de clientes;Conglomerado; ;BB (conglomerado);21,71;1298;2740;4234;8272;59776953;55937964;23398979;48279386
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;BMG (conglomerado);47,75;167;430;460;1057;3496999;17082;3482429;5588
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;BMW (conglomerado); ;0;0;2;2;17244; ;17244; 
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;BNP PARIBAS (conglomerado);56,93;159;561;383;1103;2792641;15578;2777495;2350
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;BNY MELLON (conglomerado); ;0;1;0;1;1709;1709; ;0
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;BOFA MERRILL LYNCH (conglomerado); ;0;0;1;1;1396;1384;75;0
+2017;2º;Mais de quatro milhões de clientes;Conglomerado; ;BRADESCO (conglomerado);24,45;2264;3478;4113;9855;92585594;77385228;45734862;34576814
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;BRB (conglomerado);60,09;50;125;139;314;832078;725215;369386;588333
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;BTG PACTUAL (conglomerado); ;0;0;2;2;85937;41076;45180;4846
+2017;2º;Mais de quatro milhões de clientes;Conglomerado; ;CAIXA ECONÔMICA FEDERAL (conglomerado);29,11;2488;3095;6379;11962;85458741;82418020;18148616;73507354
+2017;2º;Menos de quatro milhões de clientes;Banco/financeira;9313766;CARUANA S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;0;0;1;1;30175;23254;7380; 
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;CCB (conglomerado);51,26;17;231;210;458;331620;7832;324938;3666
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;CITIBANK (conglomerado);39,28;52;162;154;368;1323821;561384;933827;209719
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;CREDIT AGRICOLE (conglomerado); ;0;0;1;1;2519;2504;47;
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;CREDIT SUISSE (conglomerado); ;0;0;1;1;3607;3607;101;
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;CREFISA (conglomerado);10,55;16;81;35;132;1516424;12859;1503602;
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;DACASA FINANCEIRA (conglomerado); ;3;1;5;9;1200776; ;1200776; 
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;DAYCOVAL (conglomerado); ;13;448;154;615;927015;50858;882182;15087
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;DEUTSCHE (conglomerado); ;0;0;1;1;3673;3662;145;398
+2017;2º;Menos de quatro milhões de clientes;Banco/financeira;15581638;FACTA FINANCEIRA S.A. - CRÉDITO FINANCIAMENTO E INVESTIMENTO; ;11;3;5;19;29502; ;29502; 
+2017;2º;Menos de quatro milhões de clientes;Banco/financeira;411939;FINAMAX S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO; ;0;1;1;2;97983; ;97983; 
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;GMAC (conglomerado); ;5;18;47;70;477470;633;476924; 
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;GRUPO ZEMA (conglomerado); ;1;0;0;1;136244; ;136244; 
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;HERVAL - HS (conglomerado); ;1;0;0;1;240350; ;240350; 
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;HONDA (conglomerado); ;2;5;19;26;454625;20;454611; 
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;INDUSTRIAL DO BRASIL (conglomerado); ;3;1;2;6;57689;4045;54184;858
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;INDUSVAL (conglomerado); ;0;0;1;1;6929;6239;1216;2607
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;INTERMEDIUM (conglomerado);54,16;20;288;90;398;369262;165709;226701;34078
+2017;2º;Mais de quatro milhões de clientes;Conglomerado; ;ITAU (conglomerado);21,33;1468;3506;4636;9610;68821561;49486744;40438974;28830155
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;JP MORGAN CHASE (conglomerado); ;0;1;1;2;4181;4161;123;
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;LECCA (conglomerado); ;1;1;1;3;21481; ;21481; 
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;MÁXIMA (conglomerado); ;0;0;1;1;29238;3505;25886;
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;MERCANTIL DO BRASIL (conglomerado);16,88;40;250;99;389;2368432;1826549;1004518;1303140
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;MERCEDES-BENZ (conglomerado); ;0;1;0;1;24446;37;24440; 
+2017;2º;Mais de quatro milhões de clientes;Banco/financeira;9464032;MIDWAY S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO;11,85;78;70;50;198;6582000; ;6582000; 
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;MODAL (conglomerado); ;1;1;3;5;5257;5202;152;1761
+2017;2º;Menos de quatro milhões de clientes;Banco/financeira;4379829;NEGRESCO S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTOS; ;0;1;2;3;494343; ;494343; 
+2017;2º;Mais de quatro milhões de clientes;Conglomerado; ;OMNI (conglomerado);4,12;17;20;71;108;4125165;0;4125165; 
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;ORIGINAL (conglomerado); ;6;50;83;139;447763;368959;137280;46948
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;OURINVEST (conglomerado); ;0;0;2;2;17104;14582;2529; 
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;PAN (conglomerado);81,21;236;924;1036;2196;2905904;15954;2891813;2052
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;PARANÁ BANCO (conglomerado);54,45;35;289;98;422;642783;5362;637682;2139
+2017;2º;Menos de quatro milhões de clientes;Banco/financeira;3311443;PARATI - CREDITO, FINANCIAMENTO E INVESTIMENTO S.A.; ;0;0;1;1;891; ;891; 
+2017;2º;Mais de quatro milhões de clientes;Conglomerado; ;PERNAMBUCANAS (conglomerado);2,86;13;21;26;60;4532183; ;4532183; 
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;PINE (conglomerado); ;1;0;0;1;4138;3528;929;1190
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;PORTO SEGURO (conglomerado);40,44;51;29;77;157;1260965; ;1260965; 
+2017;2º;Menos de quatro milhões de clientes;Banco/financeira;1800019;PORTOCRED S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO; ;0;9;12;21;139737; ;139737; 
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;RENDIMENTO (conglomerado); ;2;3;0;5;17101;11021;7633;3788
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;RODOBENS (conglomerado); ;1;2;3;6;15829;6553;12614;398
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;SAFRA (conglomerado);44,12;46;363;267;676;1042575;295847;798368;88033
+2017;2º;Menos de quatro milhões de clientes;Banco/financeira;5503849;SANTANA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;1;0;1;2;28098; ;28098; 
+2017;2º;Mais de quatro milhões de clientes;Conglomerado; ;SANTANDER (conglomerado);28,58;1089;2695;2916;6700;38098966;32601338;13996852;24362717
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;SANTINVEST (conglomerado); ;1;2;0;3;12748; ;12748; 
+2017;2º;Menos de quatro milhões de clientes;Banco/financeira;7747410;SAX S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;1;5;5;11;136255; ;136255; 
+2017;2º;Menos de quatro milhões de clientes;Banco/financeira;11970623;SENFF S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;0;0;2;2;40316; ;40316; 
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;SICREDI (conglomerado); ;0;1;0;1;2949569;2922845;109935;0
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;SOCIETE GENERALE (conglomerado); ;4;8;11;23;251132;1007;250200;61
+2017;2º;Menos de quatro milhões de clientes;Banco/financeira;3881423;SOCINAL S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;0;0;2;2;0; ; ; 
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;SOCOPA (conglomerado); ;0;2;2;4;25307;9804;15715;2223
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;SOFISA (conglomerado); ;0;2;5;7;70159;59267;12201;23769
+2017;2º;Menos de quatro milhões de clientes;Banco/financeira;4814563;SOROCRED   CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.; ;6;6;30;42;372895; ;372895; 
+2017;2º;Menos de quatro milhões de clientes;Banco/financeira;9473806;TODESCREDI S/A - CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;0;0;1;1;14254; ;14254;
+2017;2º;Menos de quatro milhões de clientes;Banco/financeira;5192316;VIA CERTA FINANCIADORA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTOS; ;0;1;0;1;285800;0;285800; 
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;VOLKSWAGEN (conglomerado); ;6;13;46;65;470819;1392;469762; 
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;VOLVO (conglomerado); ;1;0;4;5;10123;110;10116; 
+2017;2º;Mais de quatro milhões de clientes;Conglomerado; ;VOTORANTIM (conglomerado);14,98;61;242;214;517;4069729;16822;4054669;4413
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;WESTERN UNION (conglomerado); ;0;2;3;5;3;3; ;1
+2017;2º;Menos de quatro milhões de clientes;Conglomerado; ;YAMAHA MOTOR (conglomerado); ;0;5;10;15;108446;67;108381; 
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;ABC-BRASIL (conglomerado); ;0;0;1;1;15684;14421;3025;2895
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;AGIPLAN (conglomerado);56,08;23;95;96;214;410110;56103;380405;5114
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;ALFA (conglomerado);47,75;22;37;31;90;460731;268867;193650;0
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;ANDBANK (conglomerado); ;0;0;2;2;7117;1299;5822;89
+2017;3º;Menos de quatro milhões de clientes;Banco/financeira;23862762;AVISTA S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;0;0;3;3;215297;97;215201; 
+2017;3º;Menos de quatro milhões de clientes;Banco/financeira;92874270;BANCO A.J. RENNER S.A.; ;0;0;2;2;110596;6439;104482;1918
+2017;3º;Menos de quatro milhões de clientes;Banco/financeira;71027866;BANCO BONSUCESSO S.A.; ;4;51;32;87;25197;3847;21493;1752
+2017;3º;Menos de quatro milhões de clientes;Banco/financeira;2658435;BANCO CATERPILLAR S.A.; ;0;0;2;2;4771; ;4771; 
+2017;3º;Menos de quatro milhões de clientes;Banco/financeira;27098060;BANCO CBSS S.A.;16,45;26;57;66;149;1580432; ;1580432; 
+2017;3º;Menos de quatro milhões de clientes;Banco/financeira;2992446;BANCO CNH INDUSTRIAL CAPITAL S.A.; ;1;3;0;4;27018;1414;26063; 
+2017;3º;Menos de quatro milhões de clientes;Banco/financeira;8357240;BANCO CSF S.A.;11,15;38;89;66;193;3407577; ;3407577; 
+2017;3º;Menos de quatro milhões de clientes;Banco/financeira;4902979;BANCO DA AMAZONIA S.A.; ;3;8;9;20;501945;423124;171728;275745
+2017;3º;Menos de quatro milhões de clientes;Banco/financeira;44189447;BANCO DE LA PROVINCIA DE BUENOS AIRES; ;0;0;1;1;70;48;26;0
+2017;3º;Menos de quatro milhões de clientes;Banco/financeira;60498557;BANCO DE TOKYO-MITSUBISHI UFJ BRASIL S.A.; ;0;0;1;1;2299;2277;107;444
+2017;3º;Menos de quatro milhões de clientes;Banco/financeira;13009717;BANCO DO ESTADO DE SERGIPE S.A.;45,46;43;11;12;66;945735;840508;364339;635868
+2017;3º;Menos de quatro milhões de clientes;Banco/financeira;4913711;BANCO DO ESTADO DO PARÁ S.A.; ;9;20;40;69;671482;657745;219574;572310
+2017;3º;Mais de quatro milhões de clientes;Banco/financeira;7237373;BANCO DO NORDESTE DO BRASIL S.A.;0,32;2;11;39;52;6137521;5963784;1013006;4623991
+2017;3º;Menos de quatro milhões de clientes;Banco/financeira;58616418;BANCO FIBRA S.A.; ;8;8;20;36;169574;3634;166368;1256
+2017;3º;Menos de quatro milhões de clientes;Banco/financeira;61348538;BANCO FICSA S.A.; ;0;0;1;1;35323;629;34697;38
+2017;3º;Menos de quatro milhões de clientes;Banco/financeira;253448;BANCO NEON S.A.; ;12;12;12;36;141809;140544;1466;3604
+2017;3º;Menos de quatro milhões de clientes;Banco/financeira;40429946;BANCO PORTO REAL DE INVESTIMENTOS S.A; ;0;0;1;1;47;7;40; 
+2017;3º;Menos de quatro milhões de clientes;Banco/financeira;1023570;BANCO RABOBANK INTERNATIONAL BRASIL S.A.; ;0;1;0;1;3860;3700;1620;728
+2017;3º;Menos de quatro milhões de clientes;Banco/financeira;795423;BANCO SEMEAR S.A.; ;2;3;5;10;460492;3854;456852;1298
+2017;3º;Menos de quatro milhões de clientes;Banco/financeira;3215790;BANCO TOYOTA DO BRASIL S.A.; ;0;1;5;6;135933;15220;122526; 
+2017;3º;Menos de quatro milhões de clientes;Banco/financeira;17351180;BANCO TRIANGULO S.A.; ;9;13;10;32;1395624;166528;1243040;14942
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;BANCOOB (conglomerado); ;1;8;32;41;1930034;1159696;889602;0
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;BANESTES (conglomerado); ;8;13;11;32;1322844;1199971;420765;879188
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;BANIF (conglomerado); ;0;0;1;1;518;515;3;613
+2017;3º;Mais de quatro milhões de clientes;Conglomerado; ;BANRISUL (conglomerado);15,97;72;266;154;492;4506706;3336187;2454111;2460871
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;BARIGUI (conglomerado); ;9;14;2;25;32743;878;31866; 
+2017;3º;Mais de quatro milhões de clientes;Conglomerado; ;BB (conglomerado);22;1315;2610;4336;8261;59756725;55851512;23268147;46953649
+2017;3º;Menos de quatro milhões de clientes;Banco/financeira;45283173;BBVA BRASIL BANCO DE INVESTIMENTO S.A.; ;0;0;1;1;0; ; ; 
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;BMG (conglomerado);46,3;168;468;418;1054;3628231;17619;3613534;5993
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;BMW (conglomerado); ;0;0;2;2;17409; ;17409; 
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;BNP PARIBAS (conglomerado);42,62;123;619;381;1123;2885487;16390;2869542;2140
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;BOCOM (conglomerado); ;2;0;2;4;12479;9872;2827;1146
+2017;3º;Mais de quatro milhões de clientes;Conglomerado; ;BRADESCO (conglomerado);23,99;2267;3594;4202;10063;94473132;80437174;44714034;35064479
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;BRASIL PLURAL (conglomerado); ;1;0;1;2;2943;2941;23;752
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;BRB (conglomerado);131,23;109;170;148;427;830562;721037;369269;599310
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;BTG PACTUAL (conglomerado); ;0;0;3;3;88582;43742;45138;6215
+2017;3º;Mais de quatro milhões de clientes;Conglomerado; ;CAIXA ECONÔMICA FEDERAL (conglomerado);31,88;2764;3630;6580;12974;86673233;83665805;18173457;75262372
+2017;3º;Menos de quatro milhões de clientes;Banco/financeira;9313766;CARUANA S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;0;0;1;1;38611;32038;7242; 
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;CCB (conglomerado); ;11;229;139;379;338144;7059;332083;3280
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;CITIBANK (conglomerado);61,23;83;165;140;388;1355504;580968;943937;201982
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;CREDIT SUISSE (conglomerado); ;0;0;1;1;3485;3482;112;0
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;CREFISA (conglomerado);11,47;18;81;32;131;1568001;34222;1559435; 
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;DACASA FINANCEIRA (conglomerado); ;0;4;6;10;1215584; ;1215584; 
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;DAYCOVAL (conglomerado); ;12;341;140;493;913973;54633;865579;17392
+2017;3º;Menos de quatro milhões de clientes;Banco/financeira;58158387;DIRECAO S.A. CREDITO, FINANCIAMENTO E INVESTIMENTO; ;0;0;6;6;77; ;77; 
+2017;3º;Menos de quatro milhões de clientes;Banco/financeira;15581638;FACTA FINANCEIRA S.A. - CRÉDITO FINANCIAMENTO E INVESTIMENTO;479,53;17;13;4;34;35451; ;35451; 
+2017;3º;Menos de quatro milhões de clientes;Banco/financeira;411939;FINAMAX S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO; ;0;0;1;1;99329;2034;97385; 
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;GMAC (conglomerado); ;3;15;51;69;463229;641;462680; 
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;HERVAL - HS (conglomerado); ;0;1;1;2;246527;510;246081; 
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;HONDA (conglomerado); ;2;4;23;29;456950;19;456937; 
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;INDUSTRIAL DO BRASIL (conglomerado); ;2;13;5;20;57877;3777;54638;899
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;INDUSVAL (conglomerado); ;0;1;0;1;6855;6282;1086;2385
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;ING (conglomerado); ;0;0;2;2;213;141;83;17
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;INTERMEDIUM (conglomerado);76,35;34;416;108;558;445291;246363;235187;87593
+2017;3º;Mais de quatro milhões de clientes;Conglomerado; ;ITAU (conglomerado);17,2;1266;3511;4206;8983;73588791;55981068;40479083;29688106
+2017;3º;Menos de quatro milhões de clientes;Banco/financeira;6040559;KREDILIG S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;0;1;0;1;160015;3;160012; 
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;LECCA (conglomerado); ;0;1;1;2;22511;913;21603; 
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;MÁXIMA (conglomerado); ;0;1;0;1;4648;3809;982;1614
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;MERCANTIL DO BRASIL (conglomerado);33,89;83;310;115;508;2448946;1914224;1026463;1418269
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;MERCEDES-BENZ (conglomerado); ;0;0;4;4;23789;50;23781; 
+2017;3º;Mais de quatro milhões de clientes;Banco/financeira;9464032;MIDWAY S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO;5,74;39;72;44;155;6787688;45;6787655; 
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;MODAL (conglomerado); ;0;1;2;3;5346;5318;120;1664
+2017;3º;Menos de quatro milhões de clientes;Banco/financeira;9274232;NATIXIS BRASIL S.A. BANCO MÚLTIPLO; ;0;1;0;1;1;1; ;1
+2017;3º;Menos de quatro milhões de clientes;Banco/financeira;4379829;NEGRESCO S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTOS; ;0;0;2;2;509268;587;508681; 
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;OMNI (conglomerado); ;7;22;57;86;3660582;2027;3658569;0
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;ORIGINAL (conglomerado); ;7;67;87;161;506253;427971;139798;85935
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;PAN (conglomerado);73,25;213;909;1139;2261;2907794;16433;2893233;1903
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;PARANÁ BANCO (conglomerado);72,05;46;298;72;416;638376;5770;632846;2316
+2017;3º;Mais de quatro milhões de clientes;Banco/financeira;43180355;PERNAMBUCANAS FINANCIADORA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO;4,12;19;89;42;150;4601041; ;4601041; 
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;PORTO SEGURO (conglomerado);35,82;48;38;66;152;1339815; ;1339815; 
+2017;3º;Menos de quatro milhões de clientes;Banco/financeira;1800019;PORTOCRED S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO; ;0;10;13;23;147122;2782;144345; 
+2017;3º;Menos de quatro milhões de clientes;Banco/financeira;27351731;REALIZE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.;52,97;33;5;9;47;622990;1;622989; 
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;RENDIMENTO (conglomerado); ;1;4;3;8;17729;11332;7973;4079
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;RODOBENS (conglomerado); ;1;1;3;5;15576;5936;12504;555
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;SAFRA (conglomerado);52,08;59;250;232;541;1132676;304954;879634;90217
+2017;3º;Menos de quatro milhões de clientes;Banco/financeira;5503849;SANTANA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;0;0;7;7;28358; ;28358; 
+2017;3º;Mais de quatro milhões de clientes;Conglomerado; ;SANTANDER (conglomerado);41,16;1600;3190;2891;7681;38864588;33199639;14558498;24995442
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;SANTINVEST (conglomerado); ;13;11;3;27;13612;477;13135; 
+2017;3º;Menos de quatro milhões de clientes;Banco/financeira;7747410;SAX S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;0;4;2;6;148706; ;148706; 
+2017;3º;Menos de quatro milhões de clientes;Banco/financeira;11970623;SENFF S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;0;0;2;2;43345;124;43225; 
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;SICREDI (conglomerado); ;0;1;2;3;3095691;3070115;112620;0
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;SOCIETE GENERALE (conglomerado); ;3;6;12;21;1148;893;326;66
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;SOCOPA (conglomerado); ;3;0;0;3;51135;35645;15708;2279
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;SOFISA (conglomerado); ;0;4;2;6;81639;70806;12283;29796
+2017;3º;Menos de quatro milhões de clientes;Banco/financeira;4814563;SOROCRED   CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.; ;12;6;23;41;405927; ;405927; 
+2017;3º;Menos de quatro milhões de clientes;Banco/financeira;5192316;VIA CERTA FINANCIADORA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTOS; ;0;0;1;1;316571;155;316421; 
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;VOLKSWAGEN (conglomerado); ;2;19;54;75;444278;1392;443220; 
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;VOLVO (conglomerado); ;1;0;1;2;9949;101;9942; 
+2017;3º;Mais de quatro milhões de clientes;Conglomerado; ;VOTORANTIM (conglomerado);32,05;130;280;334;744;4055393;21636;4035545;4193
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;WESTERN UNION (conglomerado); ;1;6;1;8;3;3; ;1
+2017;3º;Menos de quatro milhões de clientes;Conglomerado; ;YAMAHA MOTOR (conglomerado); ;2;0;6;8;112585;59;112528; 
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;AGIPLAN (conglomerado); ;7;107;93;207;473985;85003;424367;10149
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;ALFA (conglomerado); ;9;33;20;62;453229;268849;186100;9852
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;ANDBANK (conglomerado); ;0;1;5;6;7180;1362;5821;74
+2017;4º;Menos de quatro milhões de clientes;Banco/financeira;23862762;AVISTA S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;0;1;0;1;253509;208;253303;230
+2017;4º;Menos de quatro milhões de clientes;Banco/financeira;92874270;BANCO A.J. RENNER S.A.; ;0;4;15;19;111521;7262;104615;2252
+2017;4º;Menos de quatro milhões de clientes;Banco/financeira;54403563;BANCO ARBI S.A.; ;0;2;0;2;6893;464;6463;210
+2017;4º;Menos de quatro milhões de clientes;Banco/financeira;997185;BANCO BM&FBOVESPA DE SERVIÇOS DE LIQUIDAÇÃO E CUSTÓDIA S.A.; ;0;0;1;1;771;771; ;34
+2017;4º;Menos de quatro milhões de clientes;Banco/financeira;71027866;BANCO BS2 S.A.; ;1;25;8;34;20069;3880;16353;1633
+2017;4º;Menos de quatro milhões de clientes;Banco/financeira;27098060;BANCO CBSS S.A.;16,9;27;41;60;128;1597285; ;1597285; 
+2017;4º;Menos de quatro milhões de clientes;Banco/financeira;2992446;BANCO CNH INDUSTRIAL CAPITAL S.A.; ;0;1;3;4;27352;1376;26415; 
+2017;4º;Menos de quatro milhões de clientes;Banco/financeira;8357240;BANCO CSF S.A.;9,93;37;103;66;206;3724925; ;3724925;125964
+2017;4º;Menos de quatro milhões de clientes;Banco/financeira;4902979;BANCO DA AMAZONIA S.A.; ;4;4;9;17;501730;425078;168806;277819
+2017;4º;Menos de quatro milhões de clientes;Banco/financeira;5040481;BANCO DE LAGE LANDEN BRASIL S.A.; ;0;1;2;3;42488;1;42487; 
+2017;4º;Menos de quatro milhões de clientes;Banco/financeira;13009717;BANCO DO ESTADO DE SERGIPE S.A.;15,71;15;14;11;40;954687;846433;367401;650884
+2017;4º;Menos de quatro milhões de clientes;Banco/financeira;4913711;BANCO DO ESTADO DO PARÁ S.A.; ;12;23;28;63;682397;668585;222053;596745
+2017;4º;Mais de quatro milhões de clientes;Banco/financeira;7237373;BANCO DO NORDESTE DO BRASIL S.A.;0,15;1;15;33;49;6276307;6106915;1023124;4858891
+2017;4º;Menos de quatro milhões de clientes;Banco/financeira;58616418;BANCO FIBRA S.A.; ;6;2;10;18;167399;3661;164156;1153
+2017;4º;Menos de quatro milhões de clientes;Banco/financeira;61348538;BANCO FICSA S.A.; ;1;0;0;1;34957;628;34332;37
+2017;4º;Menos de quatro milhões de clientes;Banco/financeira;62237425;BANCO FIDIS S/A; ;0;0;3;3;4150;315;3846;143
+2017;4º;Menos de quatro milhões de clientes;Banco/financeira;4866275;BANCO INBURSA S.A.; ;0;0;1;1;34;2;32;4
+2017;4º;Menos de quatro milhões de clientes;Banco/financeira;59118133;BANCO LUSO BRASILEIRO S.A.; ;0;0;1;1;10512;4833;6117;1165
+2017;4º;Menos de quatro milhões de clientes;Banco/financeira;253448;BANCO NEON S.A.; ;7;9;11;27;213218;211866;1562;38801
+2017;4º;Menos de quatro milhões de clientes;Banco/financeira;795423;BANCO SEMEAR S.A.; ;1;1;2;4;401950;3896;398252;1197
+2017;4º;Menos de quatro milhões de clientes;Banco/financeira;3215790;BANCO TOYOTA DO BRASIL S.A.; ;2;4;19;25;139416;15222;125948; 
+2017;4º;Menos de quatro milhões de clientes;Banco/financeira;17351180;BANCO TRIANGULO S.A.; ;7;11;5;23;1465412;168607;1311589;14118
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;BANCOOB (conglomerado); ;3;12;46;61;2015382;1207614;934460;0
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;BANESTES (conglomerado);12,11;16;9;4;29;1320559;1197629;425191;879038
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;BANIF (conglomerado); ;0;0;1;1;484;480;4;12
+2017;4º;Mais de quatro milhões de clientes;Conglomerado; ;BANRISUL (conglomerado);25,06;114;277;179;570;4548099;3380510;2456411;2563823
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;BARIGUI (conglomerado); ;8;10;3;21;32673;881;31792;475
+2017;4º;Mais de quatro milhões de clientes;Conglomerado; ;BB (conglomerado);24,5;1524;2641;3658;7823;62181281;58565948;23160901;48018420
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;BMG (conglomerado);43,73;164;560;557;1281;3750226;22466;3735030;8689
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;BMW (conglomerado); ;0;1;1;2;17157; ;17157; 
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;BNP PARIBAS (conglomerado);34,49;100;673;379;1152;2898773;16973;2882262;2407
+2017;4º;Mais de quatro milhões de clientes;Conglomerado; ;BRADESCO (conglomerado);25,63;2438;3365;3775;9578;95112012;81052800;44807044;36606327
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;BRB (conglomerado);68,04;57;107;122;286;837641;728032;369995;471241
+2017;4º;Menos de quatro milhões de clientes;Banco/financeira;12865507;BRICKELL S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;0;0;2;2;827;826;75;153
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;BTG PACTUAL (conglomerado); ;0;0;1;1;92648;47461;45488;9208
+2017;4º;Mais de quatro milhões de clientes;Conglomerado; ;CAIXA ECONÔMICA FEDERAL (conglomerado);33,24;2913;3853;4942;11708;87613949;84658268;18129259;77190824
+2017;4º;Menos de quatro milhões de clientes;Banco/financeira;9313766;CARUANA S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;1;0;1;2;41359;35047;7904;1051
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;CCB (conglomerado); ;8;164;112;284;326245;6461;320595;2614
+2017;4º;Menos de quatro milhões de clientes;Banco/financeira;26225776;CENTROCRED S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTOS; ;0;0;3;3;10766;2;10764;3
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;CITIBANK (conglomerado);76,09;45;148;111;304;591341;583424;8780;3790
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;CREDIT AGRICOLE (conglomerado); ;0;0;1;1;2406;2394;44;0
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;CREFISA (conglomerado);9,31;15;88;33;136;1610062;103753;1593801;0
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;DACASA FINANCEIRA (conglomerado); ;3;5;5;13;1228252; ;1228252;633
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;DAYCOVAL (conglomerado); ;8;232;128;368;909504;58210;857522;19211
+2017;4º;Menos de quatro milhões de clientes;Banco/financeira;58158387;DIRECAO S.A. CREDITO, FINANCIAMENTO E INVESTIMENTO; ;0;6;0;6;81; ;81;
+2017;4º;Menos de quatro milhões de clientes;Banco/financeira;15581638;FACTA FINANCEIRA S.A. - CRÉDITO FINANCIAMENTO E INVESTIMENTO;497,87;20;17;1;38;40171;542;39629;406
+2017;4º;Menos de quatro milhões de clientes;Banco/financeira;411939;FINAMAX S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO; ;0;0;1;1;98225;1996;96318;1740
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;GMAC (conglomerado); ;4;15;40;59;446956;459;446585;149
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;HERVAL - HS (conglomerado); ;0;0;2;2;245296;522;244841;163
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;HONDA (conglomerado); ;2;8;14;24;457201;17;457187;18
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;INDUSTRIAL DO BRASIL (conglomerado); ;3;14;4;21;56818;3724;53631;871
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;INDUSVAL (conglomerado); ;0;0;1;1;6923;6333;1081;0
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;INTERMEDIUM (conglomerado);29,94;16;316;95;427;534391;338303;254728;187092
+2017;4º;Mais de quatro milhões de clientes;Conglomerado; ;ITAU (conglomerado);15,65;1165;3183;3563;7911;74422206;56492392;41181809;39809476
+2017;4º;Menos de quatro milhões de clientes;Banco/financeira;6040559;KREDILIG S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;0;0;2;2;168218;3;168215;3
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;LECCA (conglomerado); ;1;1;3;5;21800;955;20849;511
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;MÁXIMA (conglomerado); ;0;1;1;2;4669;3850;965;1495
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;MERCANTIL DO BRASIL (conglomerado);19,37;49;183;104;336;2529108;1979991;1059936;1517905
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;MERCEDES-BENZ (conglomerado); ;0;0;3;3;23146;54;23138;62
+2017;4º;Mais de quatro milhões de clientes;Banco/financeira;9464032;MIDWAY S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO;5,05;35;102;50;187;6920266;45;6920233;45
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;MODAL (conglomerado); ;1;1;5;7;5368;5278;177;1533
+2017;4º;Menos de quatro milhões de clientes;Banco/financeira;4379829;NEGRESCO S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTOS; ;1;0;0;1;523083;612;522471;375
+2017;4º;Menos de quatro milhões de clientes;Banco/financeira;74828799;NOVO BANCO CONTINENTAL S.A. - BANCO MÚLTIPLO; ;0;1;0;1;4239;2269;2364;684
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;OMNI (conglomerado); ;8;22;41;71;3668703;2107;3666612;0
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;ORIGINAL (conglomerado); ;3;63;70;136;590019;512735;158371;125842
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;OURINVEST (conglomerado); ;0;0;2;2;16940;14344;2605;50
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;PAN (conglomerado);81,64;237;958;1138;2333;2902862;17064;2887658;2851
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;PARANÁ BANCO (conglomerado); ;11;246;62;319;632966;6383;626805;2885
+2017;4º;Mais de quatro milhões de clientes;Banco/financeira;43180355;PERNAMBUCANAS FINANCIADORA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO;3,01;14;46;47;107;4646956; ;4646956;117
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;PINE (conglomerado); ;0;1;0;1;5423;4822;931;2180
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;PORTO SEGURO (conglomerado);14,98;21;24;61;106;1401349; ;1401349; 
+2017;4º;Menos de quatro milhões de clientes;Banco/financeira;1800019;PORTOCRED S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO; ;1;5;17;23;150195;2816;147383;2681
+2017;4º;Menos de quatro milhões de clientes;Banco/financeira;27351731;REALIZE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.;92,8;65;26;25;116;700427;1;700426; 
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;RENDIMENTO (conglomerado); ;2;4;4;10;17497;11582;7526;4202
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;RODOBENS (conglomerado); ;0;0;5;5;15201;5296;12290;582
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;SAFRA (conglomerado);71,72;89;236;277;602;1240917;318269;975632;96994
+2017;4º;Menos de quatro milhões de clientes;Banco/financeira;5503849;SANTANA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;0;0;3;3;28770; ;28770; 
+2017;4º;Mais de quatro milhões de clientes;Conglomerado; ;SANTANDER (conglomerado);42,87;1700;2949;4051;8700;39649999;33801886;15108978;25841987
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;SANTINVEST (conglomerado); ;4;4;4;12;13696;484;13212;409
+2017;4º;Menos de quatro milhões de clientes;Banco/financeira;7747410;SAX S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;1;1;3;5;160477; ;160477; 
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;SICREDI (conglomerado); ;0;3;0;3;3225631;3200695;116444;0
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;SINOSSERRA (conglomerado); ;1;0;0;1;4524;4;4520;5
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;SOCIETE GENERALE (conglomerado); ;0;1;0;1;1250;987;330;57
+2017;4º;Menos de quatro milhões de clientes;Banco/financeira;3881423;SOCINAL S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;0;0;7;7;4319;2355;1964;2489
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;SOCOPA (conglomerado); ;0;0;3;3;52049;36572;15693;2370
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;SOFISA (conglomerado);170,22;16;5;16;37;93995;83216;12347;38125
+2017;4º;Menos de quatro milhões de clientes;Banco/financeira;4814563;SOROCRED   CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.; ;7;17;28;52;445221; ;445221;984
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;VOLKSWAGEN (conglomerado); ;3;19;61;83;418638;1392;417579;629
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;VOLVO (conglomerado); ;0;1;3;4;9562;96;9555;25
+2017;4º;Mais de quatro milhões de clientes;Conglomerado; ;VOTORANTIM (conglomerado);12,5;51;266;275;592;4078779;21671;4058647;3727
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;WESTERN UNION (conglomerado); ;2;1;2;5;3;3; ;1
+2017;4º;Menos de quatro milhões de clientes;Conglomerado; ;YAMAHA MOTOR (conglomerado); ;0;0;6;6;118495;55;118441; 
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;ABC-BRASIL (conglomerado); ;0;2;1;3;15734;14481;3040;2778
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;AGIPLAN (conglomerado); ;7;166;136;309;535631;114636;462601;10149
+2018;1º;Menos de quatro milhões de clientes;Banco/financeira;36321990;AGORACRED S/A SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;0;0;2;2;213303;108;213195; 
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;ALFA (conglomerado); ;14;21;18;53;433039;268947;165761;0
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;ANDBANK (conglomerado); ;0;1;2;3;7184;1366;5818;74
+2018;1º;Menos de quatro milhões de clientes;Banco/financeira;23862762;AVISTA S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;2;4;1;7;261085;285;260801; 
+2018;1º;Menos de quatro milhões de clientes;Banco/financeira;92874270;BANCO A.J. RENNER S.A.; ;1;3;8;12;112932;8895;104652;2252
+2018;1º;Menos de quatro milhões de clientes;Banco/financeira;997185;BANCO BM&FBOVESPA DE SERVIÇOS DE LIQUIDAÇÃO E CUSTÓDIA S.A.; ;0;0;1;1;786;786; ;34
+2018;1º;Menos de quatro milhões de clientes;Banco/financeira;27098060;BANCO CBSS S.A.;18,82;16;43;68;127;849816; ;849816; 
+2018;1º;Menos de quatro milhões de clientes;Banco/financeira;2992446;BANCO CNH INDUSTRIAL CAPITAL S.A.; ;0;0;2;2;27509;1339;26595; 
+2018;1º;Menos de quatro milhões de clientes;Banco/financeira;8357240;BANCO CSF S.A.;9,68;38;90;89;217;3924426; ;3924426; 
+2018;1º;Menos de quatro milhões de clientes;Banco/financeira;4902979;BANCO DA AMAZONIA S.A.; ;5;4;10;19;499353;426263;163887;277819
+2018;1º;Menos de quatro milhões de clientes;Banco/financeira;44189447;BANCO DE LA PROVINCIA DE BUENOS AIRES; ;0;0;4;4;67;50;21;0
+2018;1º;Menos de quatro milhões de clientes;Banco/financeira;5040481;BANCO DE LAGE LANDEN BRASIL S.A.; ;0;0;2;2;41958;1;41957; 
+2018;1º;Menos de quatro milhões de clientes;Banco/financeira;13009717;BANCO DO ESTADO DE SERGIPE S.A.;53;51;14;19;84;962128;851030;377937;650884
+2018;1º;Menos de quatro milhões de clientes;Banco/financeira;4913711;BANCO DO ESTADO DO PARÁ S.A.; ;14;31;54;99;691509;677759;221553;596745
+2018;1º;Mais de quatro milhões de clientes;Banco/financeira;7237373;BANCO DO NORDESTE DO BRASIL S.A.;0,46;3;19;30;52;6397101;6232867;1022374;4858891
+2018;1º;Menos de quatro milhões de clientes;Banco/financeira;58616418;BANCO FIBRA S.A.; ;0;4;3;7;167923;3645;164696;1153
+2018;1º;Menos de quatro milhões de clientes;Banco/financeira;61348538;BANCO FICSA S.A.; ;0;0;3;3;34713;628;34088;37
+2018;1º;Menos de quatro milhões de clientes;Banco/financeira;62237425;BANCO FIDIS S/A; ;0;0;1;1;1929;267;1673; 
+2018;1º;Menos de quatro milhões de clientes;Banco/financeira;90731688;BANCO FORD S.A.; ;0;2;2;4;352;95;263; 
+2018;1º;Menos de quatro milhões de clientes;Banco/financeira;4866275;BANCO INBURSA S.A.; ;0;0;3;3;46;4;42;4
+2018;1º;Menos de quatro milhões de clientes;Banco/financeira;253448;BANCO NEON S.A.; ;5;7;13;25;317352;315753;1879;38801
+2018;1º;Menos de quatro milhões de clientes;Banco/financeira;517645;BANCO RIBEIRAO PRETO S.A.; ;0;1;1;2;4423;3639;2698;438
+2018;1º;Menos de quatro milhões de clientes;Banco/financeira;795423;BANCO SEMEAR S.A.; ;0;2;0;2;410246;3899;406525;1197
+2018;1º;Menos de quatro milhões de clientes;Banco/financeira;7679404;BANCO TOPÁZIO S.A.; ;0;0;12;12;24302;5843;20023;1277
+2018;1º;Menos de quatro milhões de clientes;Banco/financeira;3215790;BANCO TOYOTA DO BRASIL S.A.; ;1;2;15;18;142966;15238;129402; 
+2018;1º;Menos de quatro milhões de clientes;Banco/financeira;17351180;BANCO TRIANGULO S.A.; ;5;12;8;25;1527570;170913;1372202;14118
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;BANCOOB (conglomerado); ;2;13;31;46;2091208;1253418;971892;0
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;BANESTES (conglomerado); ;14;11;4;29;1319406;1196588;429679;879038
+2018;1º;Mais de quatro milhões de clientes;Conglomerado; ;BANRISUL (conglomerado);12,21;56;255;179;490;4585763;3423296;2542610;2563823
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;BARIGUI (conglomerado); ;4;13;6;23;32369;888;31481; 
+2018;1º;Mais de quatro milhões de clientes;Conglomerado; ;BB (conglomerado);24,2;1504;2857;3571;7932;62141375;58495961;22989768;48018420
+2018;1º;Menos de quatro milhões de clientes;Banco/financeira;45283173;BBVA BRASIL BANCO DE INVESTIMENTO S.A.; ;0;0;2;2;0;0;0; 
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;BMG (conglomerado);31,29;119;642;566;1327;3802746;31637;3787083;8689
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;BMW (conglomerado); ;0;0;2;2;17598; ;17598; 
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;BNP PARIBAS (conglomerado);36,27;106;549;404;1059;2922450;17775;2905133;2407
+2018;1º;Mais de quatro milhões de clientes;Conglomerado; ;BRADESCO (conglomerado);20,05;1886;3608;3753;9247;94058577;81713652;42023190;36606327
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;BRASIL PLURAL (conglomerado); ;0;0;1;1;3334;3332;21;753
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;BRB (conglomerado);311,77;262;100;135;497;840363;730751;368540;471241
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;BTG PACTUAL (conglomerado); ;0;2;1;3;52841;52408;703;9208
+2018;1º;Mais de quatro milhões de clientes;Conglomerado; ;CAIXA ECONÔMICA FEDERAL (conglomerado);27,62;2444;3919;5084;11447;88470270;85559582;17960213;77190824
+2018;1º;Menos de quatro milhões de clientes;Banco/financeira;9313766;CARUANA S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;0;1;0;1;47691;41579;8737; 
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;CCB (conglomerado); ;6;162;54;222;311390;5765;306273;2614
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;CITIBANK (conglomerado); ;2;5;6;13;557615;549768;8659;3790
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;CREDIT SUISSE (conglomerado); ;0;1;0;1; ; ; ;0
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;CREFISA (conglomerado); ;14;77;53;144;1453238;214438;1427692;0
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;DACASA FINANCEIRA (conglomerado); ;2;1;6;9;1244193; ;1244193; 
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;DAYCOVAL (conglomerado); ;10;222;127;359;911707;60431;857727;19211
+2018;1º;Menos de quatro milhões de clientes;Banco/financeira;15581638;FACTA FINANCEIRA S.A. - CRÉDITO FINANCIAMENTO E INVESTIMENTO; ;1;12;4;17;44254;547;43707; 
+2018;1º;Menos de quatro milhões de clientes;Banco/financeira;411939;FINAMAX S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO; ;0;0;3;3;97016;1989;95119; 
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;GMAC (conglomerado); ;3;15;24;42;429966;461;429595; 
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;GRUPO BONSUCESSO - BS2 (conglomerado); ;0;9;2;11;19005;4240;14898;1633
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;GRUPO ZEMA (conglomerado); ;0;1;0;1;247171;467;246705; 
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;HERVAL - HS (conglomerado); ;0;1;1;2;244433;527;243966; 
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;HONDA (conglomerado); ;1;5;14;20;458031;16;458016; 
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;INDUSTRIAL DO BRASIL (conglomerado); ;3;6;7;16;56709;3750;53505;871
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;INDUSVAL (conglomerado); ;0;0;1;1; ; ; ;0
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;INTERMEDIUM (conglomerado);67,59;46;282;190;518;680510;486954;275355;187092
+2018;1º;Mais de quatro milhões de clientes;Conglomerado; ;ITAU (conglomerado);14,58;1091;3513;3674;8278;74816448;57044160;41156434;39809476
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;JOHN DEERE (conglomerado); ;0;0;1;1;13627;251;13437;49
+2018;1º;Menos de quatro milhões de clientes;Banco/financeira;11271860;LEBES FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;0;1;0;1;172926;2;172924; 
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;MÁXIMA (conglomerado); ;0;1;2;3;4790;3952;979;1495
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;MERCANTIL DO BRASIL (conglomerado);16,97;44;168;100;312;2592156;2033468;1084619;1517905
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;MERCEDES-BENZ (conglomerado); ;0;2;3;5;22756;55;22749; 
+2018;1º;Mais de quatro milhões de clientes;Banco/financeira;9464032;MIDWAY S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO;3,5;25;100;54;179;7136916;42;7136883; 
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;MODAL (conglomerado); ;4;4;3;11;4969;4862;197;1533
+2018;1º;Menos de quatro milhões de clientes;Banco/financeira;4379829;NEGRESCO S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTOS; ;0;0;1;1;529364;625;528739; 
+2018;1º;Menos de quatro milhões de clientes;Banco/financeira;74828799;NOVO BANCO CONTINENTAL S.A. - BANCO MÚLTIPLO; ;2;0;0;2;11328;2324;9391;684
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;OMNI (conglomerado); ;11;23;56;90;3660025;2192;3657854;0
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;ORIGINAL (conglomerado); ;4;67;65;136;660593;552909;201583;125842
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;PAN (conglomerado);63,36;192;876;1102;2170;3029941;17569;3014248;2851
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;PARANÁ BANCO (conglomerado); ;11;169;58;238;634891;6544;628561;2885
+2018;1º;Menos de quatro milhões de clientes;Banco/financeira;3311443;PARATI - CREDITO, FINANCIAMENTO E INVESTIMENTO S.A.; ;0;0;1;1;833; ;833; 
+2018;1º;Mais de quatro milhões de clientes;Banco/financeira;43180355;PERNAMBUCANAS FINANCIADORA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO;3,79;18;31;44;93;4747582; ;4747582; 
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;PORTO SEGURO (conglomerado);18,24;26;39;71;136;1424955; ;1424955; 
+2018;1º;Menos de quatro milhões de clientes;Banco/financeira;1800019;PORTOCRED S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO; ;2;15;12;29;152128;2870;149263; 
+2018;1º;Menos de quatro milhões de clientes;Banco/financeira;27351731;REALIZE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.;43,56;33;33;47;113;757535;7;757528; 
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;RENDIMENTO (conglomerado); ;7;2;3;12;17782;11849;7561;4202
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;RODOBENS (conglomerado); ;0;0;7;7;14878;4708;12155;582
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;SAFRA (conglomerado);73,56;101;232;274;607;1372972;329293;1097411;96994
+2018;1º;Menos de quatro milhões de clientes;Banco/financeira;5503849;SANTANA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;1;1;2;4;29579;704;28876; 
+2018;1º;Mais de quatro milhões de clientes;Conglomerado; ;SANTANDER (conglomerado);25,66;1038;2941;3777;7756;40441975;34320332;15738273;25841987
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;SANTINVEST (conglomerado); ;1;1;1;3;13757;410;13347; 
+2018;1º;Menos de quatro milhões de clientes;Banco/financeira;7747410;SAX S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;0;0;3;3;166722; ;166722; 
+2018;1º;Menos de quatro milhões de clientes;Banco/financeira;11970623;SENFF S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;0;0;2;2;90357;106;90255; 
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;SICREDI (conglomerado); ;0;0;4;4;3345777;3321210;119597;0
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;SOCIETE GENERALE (conglomerado); ;2;2;5;9;1174;920;312;57
+2018;1º;Menos de quatro milhões de clientes;Banco/financeira;3881423;SOCINAL S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;0;2;4;6;4713;2626;2087; 
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;SOCOPA (conglomerado); ;1;1;1;3;52750;37309;15649;2370
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;SOFISA (conglomerado); ;7;2;4;13;103132;92374;12314;38125
+2018;1º;Menos de quatro milhões de clientes;Banco/financeira;4814563;SOROCRED   CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.; ;8;20;29;57;410242;1452;408821; 
+2018;1º;Menos de quatro milhões de clientes;Banco/financeira;9473806;TODESCREDI S/A - CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;0;3;0;3;17383;3;17380; 
+2018;1º;Menos de quatro milhões de clientes;Banco/financeira;5192316;VIA CERTA FINANCIADORA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTOS; ;0;1;2;3;327692;245;327453; 
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;VOLKSWAGEN (conglomerado); ;4;9;35;48;394350;1393;393279; 
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;VOLVO (conglomerado); ;0;1;1;2;9273;89;9266; 
+2018;1º;Mais de quatro milhões de clientes;Conglomerado; ;VOTORANTIM (conglomerado);6,38;26;241;276;543;4071209;21148;4051555;3727
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;WESTERN UNION (conglomerado); ;0;4;3;7;3;3; ;1
+2018;1º;Menos de quatro milhões de clientes;Conglomerado; ;YAMAHA MOTOR (conglomerado); ;0;2;5;7;123136;56;123083; 
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;ABC-BRASIL (conglomerado); ;0;0;2;2;15746;14498;3042;2778
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;AGIPLAN (conglomerado);143,57;100;146;231;477;696523;229660;543006;10149
+2018;2º;Menos de quatro milhões de clientes;Banco/financeira;36321990;AGORACRED S/A SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;0;1;5;6;221975;108;221867; 
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;ALFA (conglomerado); ;10;31;32;73;425588;268545;158689;0
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;ANDBANK (conglomerado); ;0;2;3;5;7307;1489;5819;74
+2018;2º;Menos de quatro milhões de clientes;Banco/financeira;23862762;AVISTA S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;1;9;6;16;345988;484;345507; 
+2018;2º;Menos de quatro milhões de clientes;Banco/financeira;92874270;BANCO A.J. RENNER S.A.; ;0;2;2;4;118486;15583;103911;2252
+2018;2º;Menos de quatro milhões de clientes;Banco/financeira;3532415;BANCO ABN AMRO S.A.; ;0;0;2;2;279;230;68;23
+2018;2º;Menos de quatro milhões de clientes;Banco/financeira;54403563;BANCO ARBI S.A.; ;1;3;1;5;7546;454;7126;210
+2018;2º;Menos de quatro milhões de clientes;Banco/financeira;15173776;BANCO CAPITAL S.A.; ;0;2;0;2;1451;1387;168;332
+2018;2º;Menos de quatro milhões de clientes;Banco/financeira;2658435;BANCO CATERPILLAR S.A.; ;0;0;1;1;4208; ;4208; 
+2018;2º;Menos de quatro milhões de clientes;Banco/financeira;27098060;BANCO CBSS S.A.;37,66;35;62;102;199;929319; ;929319; 
+2018;2º;Menos de quatro milhões de clientes;Banco/financeira;33132044;BANCO CEDULA S.A.; ;0;1;0;1;18022;2812;15449;112
+2018;2º;Menos de quatro milhões de clientes;Banco/financeira;2992446;BANCO CNH INDUSTRIAL CAPITAL S.A.; ;0;2;4;6;26439;1303;25544; 
+2018;2º;Mais de quatro milhões de clientes;Banco/financeira;8357240;BANCO CSF S.A.;5,84;24;126;108;258;4108744; ;4108744; 
+2018;2º;Menos de quatro milhões de clientes;Banco/financeira;4902979;BANCO DA AMAZONIA S.A.; ;3;7;9;19;499764;427310;162927;277819
+2018;2º;Menos de quatro milhões de clientes;Banco/financeira;10690848;BANCO DA CHINA BRASIL S.A.; ;0;1;0;1;465;457;28;315
+2018;2º;Menos de quatro milhões de clientes;Banco/financeira;5040481;BANCO DE LAGE LANDEN BRASIL S.A.; ;0;1;0;1;41281;2;41279; 
+2018;2º;Menos de quatro milhões de clientes;Banco/financeira;13009717;BANCO DO ESTADO DE SERGIPE S.A.; ;8;20;13;41;972392;856648;387856;650884
+2018;2º;Menos de quatro milhões de clientes;Banco/financeira;4913711;BANCO DO ESTADO DO PARÁ S.A.; ;7;20;48;75;701613;687911;227298;596745
+2018;2º;Mais de quatro milhões de clientes;Banco/financeira;7237373;BANCO DO NORDESTE DO BRASIL S.A.;0,61;4;28;37;69;6530350;6367762;1040004;4858891
+2018;2º;Menos de quatro milhões de clientes;Banco/financeira;58616418;BANCO FIBRA S.A.; ;2;2;16;20;168768;3670;165512;1153
+2018;2º;Menos de quatro milhões de clientes;Banco/financeira;61348538;BANCO FICSA S.A.; ;1;0;0;1;628;628; ;37
+2018;2º;Menos de quatro milhões de clientes;Banco/financeira;62237425;BANCO FIDIS S/A; ;0;1;0;1;4737;261;4487; 
+2018;2º;Menos de quatro milhões de clientes;Banco/financeira;90731688;BANCO FORD S.A.; ;0;0;1;1;348;95;259; 
+2018;2º;Menos de quatro milhões de clientes;Banco/financeira;59118133;BANCO LUSO BRASILEIRO S.A.; ;0;1;0;1;10614;4934;6118;1165
+2018;2º;Menos de quatro milhões de clientes;Banco/financeira;253448;BANCO NEON S.A.; ;2;2;8;12;418083;418083; ;38801
+2018;2º;Menos de quatro milhões de clientes;Banco/financeira;517645;BANCO RIBEIRAO PRETO S.A.; ;0;0;1;1;4494;3773;2734;438
+2018;2º;Menos de quatro milhões de clientes;Banco/financeira;795423;BANCO SEMEAR S.A.; ;0;2;3;5;409890;3814;406257;1197
+2018;2º;Menos de quatro milhões de clientes;Banco/financeira;7679404;BANCO TOPÁZIO S.A.; ;2;11;5;18;22977;6478;18218;1277
+2018;2º;Menos de quatro milhões de clientes;Banco/financeira;3215790;BANCO TOYOTA DO BRASIL S.A.; ;2;6;13;21;146240;15241;132577; 
+2018;2º;Menos de quatro milhões de clientes;Banco/financeira;17351180;BANCO TRIANGULO S.A.; ;6;11;13;30;1597422;168098;1444672;14118
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;BANCOOB (conglomerado); ;13;23;22;58;2189432;1311534;1023937;0
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;BANESTES (conglomerado);17,82;22;18;6;46;1233897;1194481;326315;879038
+2018;2º;Mais de quatro milhões de clientes;Conglomerado; ;BANRISUL (conglomerado);18,57;86;349;165;600;4628899;3466739;2569217;2563823
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;BARIGUI (conglomerado); ;8;8;5;21;32290;906;31384; 
+2018;2º;Mais de quatro milhões de clientes;Conglomerado; ;BB (conglomerado);20,85;1301;3076;4351;8728;62371119;58690105;23038799;48018420
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;BMG (conglomerado);30,42;112;603;676;1391;3680899;42860;3666146;8689
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;BMW (conglomerado); ;0;0;1;1;20377;20300;17580; 
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;BNP PARIBAS (conglomerado);40,98;122;690;477;1289;2976817;17219;2960072;2407
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;BOCOM (conglomerado); ;0;0;1;1;13984;10071;4118;1127
+2018;2º;Mais de quatro milhões de clientes;Conglomerado; ;BRADESCO (conglomerado);19,61;1860;3614;3944;9418;94813604;82574423;42027518;36606327
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;BRASIL PLURAL (conglomerado); ;0;0;1;1;3460;3459;22;753
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;BRB (conglomerado);130,16;111;115;188;414;852744;742862;369986;471241
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;BTG PACTUAL (conglomerado); ;0;2;1;3;104582;59461;45423;9208
+2018;2º;Mais de quatro milhões de clientes;Conglomerado; ;CAIXA ECONÔMICA FEDERAL (conglomerado);27,68;2475;3979;5161;11615;89400030;86564320;17811442;77190824
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;CAIXA GERAL (conglomerado); ;0;0;1;1;1598;1567;81;749
+2018;2º;Menos de quatro milhões de clientes;Banco/financeira;9313766;CARUANA S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;1;1;2;4;51076;45141;9047; 
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;CCB (conglomerado); ;2;136;57;195;297336;5359;292563;2614
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;CITIBANK (conglomerado); ;1;8;6;15;312172;304880;8085;3790
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;CREFISA (conglomerado); ;4;100;56;160;1505745;315910;1468843;0
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;DACASA FINANCEIRA (conglomerado); ;2;4;11;17;1262583; ;1262583; 
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;DAYCOVAL (conglomerado); ;9;201;118;328;906680;63574;849606;19211
+2018;2º;Menos de quatro milhões de clientes;Banco/financeira;15581638;FACTA FINANCEIRA S.A. - CRÉDITO FINANCIAMENTO E INVESTIMENTO; ;0;40;16;56;49920;551;49369; 
+2018;2º;Menos de quatro milhões de clientes;Banco/financeira;411939;FINAMAX S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO; ;0;1;2;3;97449;1981;95559; 
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;GMAC (conglomerado); ;2;31;45;78;415584;457;415216; 
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;GOLCRED (conglomerado); ;0;0;1;1;8423;7;8416; 
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;GRUPO BONSUCESSO - BS2 (conglomerado); ;0;4;0;4;18199;4459;13918;1633
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;GRUPO ZEMA (conglomerado); ;0;1;1;2;258443;541;257903; 
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;HONDA (conglomerado); ;0;13;14;27;460271;19;460253; 
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;INDUSTRIAL DO BRASIL (conglomerado); ;2;10;4;16;56260;3821;52985;871
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;INDUSVAL (conglomerado); ;0;1;3;4;4825;4118;1076;2161
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;INTERMEDIUM (conglomerado);45,26;39;356;182;577;861544;671058;310235;187092
+2018;2º;Mais de quatro milhões de clientes;Conglomerado; ;ITAU (conglomerado);18,61;1409;3724;3213;8346;75682726;57747741;41778504;39809476
+2018;2º;Menos de quatro milhões de clientes;Banco/financeira;4230630;JBCRED S.A. SOCIEDADE DE CREDITO, FINANCIAMENTO E INVESTIMENTO; ;1;4;3;8;111515; ;111515; 
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;JP MORGAN CHASE (conglomerado); ;0;1;0;1;3768;3745;123;671
+2018;2º;Menos de quatro milhões de clientes;Banco/financeira;11271860;LEBES FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;0;0;1;1;173681;2;173679; 
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;LECCA (conglomerado); ;1;0;1;2;23004;799;22206; 
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;MERCANTIL DO BRASIL (conglomerado);9,52;25;179;134;338;2625460;2093555;1079103;1517905
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;MERCEDES-BENZ (conglomerado); ;0;1;1;2;22317;94;22306; 
+2018;2º;Mais de quatro milhões de clientes;Banco/financeira;9464032;MIDWAY S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO;4,38;32;105;73;210;7292931;44;7292897; 
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;MODAL (conglomerado); ;1;1;4;6;5086;4916;263;1533
+2018;2º;Menos de quatro milhões de clientes;Banco/financeira;4379829;NEGRESCO S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTOS; ;0;1;0;1;532779;631;532148; 
+2018;2º;Menos de quatro milhões de clientes;Banco/financeira;74828799;NOVO BANCO CONTINENTAL S.A. - BANCO MÚLTIPLO; ;2;1;1;4;23201;2538;21056;684
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;OMNI (conglomerado); ;8;35;45;88;3667584;2462;3665153;0
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;ORIGINAL (conglomerado); ;14;47;54;115;692442;584846;214031;125842
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;OURINVEST (conglomerado); ;1;0;1;2;18958;16616;2352;50
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;PAN (conglomerado);88,28;274;1123;1004;2401;3103578;17940;3087563;2851
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;PARANÁ BANCO (conglomerado);133,75;68;208;80;356;508390;6741;501856;2885
+2018;2º;Menos de quatro milhões de clientes;Banco/financeira;3311443;PARATI - CREDITO, FINANCIAMENTO E INVESTIMENTO S.A.; ;0;0;1;1;815; ;815; 
+2018;2º;Mais de quatro milhões de clientes;Banco/financeira;43180355;PERNAMBUCANAS FINANCIADORA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO;4,55;22;21;41;84;4829461; ;4829461; 
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;PINE (conglomerado); ;0;0;1;1;6132;5539;977;2180
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;PORTO SEGURO (conglomerado);36,84;53;54;66;173;1438338; ;1438338; 
+2018;2º;Menos de quatro milhões de clientes;Banco/financeira;1800019;PORTOCRED S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO; ;4;11;13;28;168142;3039;165108; 
+2018;2º;Menos de quatro milhões de clientes;Banco/financeira;27351731;REALIZE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.;36,98;30;47;32;109;811066;7;811059; 
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;RENDIMENTO (conglomerado); ;2;1;5;8;17587;12109;7088;4202
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;RODOBENS (conglomerado); ;0;3;11;14;14593;4258;12076;582
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;SAFRA (conglomerado);78,42;118;557;284;959;1504563;350246;1209351;96981
+2018;2º;Menos de quatro milhões de clientes;Banco/financeira;5503849;SANTANA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;0;2;5;7;29858;821;29038; 
+2018;2º;Mais de quatro milhões de clientes;Conglomerado; ;SANTANDER (conglomerado);38,14;1576;3324;3567;8467;41311632;34990905;16370821;25841987
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;SANTINVEST (conglomerado); ;2;2;1;5;14082;377;13705; 
+2018;2º;Menos de quatro milhões de clientes;Banco/financeira;7747410;SAX S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;0;2;3;5;147884; ;147884; 
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;SCANIA (conglomerado); ;0;1;0;1;3960;755;3940; 
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;SOCIETE GENERALE (conglomerado); ;1;6;3;10;1094;851;308;57
+2018;2º;Menos de quatro milhões de clientes;Banco/financeira;3881423;SOCINAL S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;0;1;6;7;5018;2872;2146; 
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;SOCOPA (conglomerado); ;0;2;0;2;53495;38074;15634;2370
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;SOFISA (conglomerado); ;4;2;5;11;113356;102625;12330;38125
+2018;2º;Menos de quatro milhões de clientes;Banco/financeira;4814563;SOROCRED   CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.; ;6;22;27;55;438160;1417;436772; 
+2018;2º;Menos de quatro milhões de clientes;Banco/financeira;9473806;TODESCREDI S/A - CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;0;1;2;3;18670;3;18667; 
+2018;2º;Menos de quatro milhões de clientes;Banco/financeira;5192316;VIA CERTA FINANCIADORA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTOS; ;0;0;1;1;343265;326;342944; 
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;VOLKSWAGEN (conglomerado); ;0;28;35;63;379863;1393;378792; 
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;VOLVO (conglomerado); ;0;3;4;7;9174;88;9165; 
+2018;2º;Mais de quatro milhões de clientes;Conglomerado; ;VOTORANTIM (conglomerado);14,1;63;343;293;699;4465765;436049;4040205;3727
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;WESTERN UNION (conglomerado); ;13;7;12;32;3;3; ;1
+2018;2º;Menos de quatro milhões de clientes;Conglomerado; ;YAMAHA MOTOR (conglomerado); ;0;5;6;11;129081;56;129027; 
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;AGIPLAN (conglomerado);122,15;109;209;223;541;892307;382416;653437;34664
+2018;3º;Menos de quatro milhões de clientes;Banco/financeira;36321990;AGORACRED S/A SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;1;1;0;2;235633;108;235525; 
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;ALFA (conglomerado); ;12;48;36;96;415592;268512;148630;0
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;ANDBANK (conglomerado); ;2;1;6;9;7900;2082;5821;0
+2018;3º;Menos de quatro milhões de clientes;Banco/financeira;23862762;AVISTA S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;8;5;25;38;656153;350188;415326; 
+2018;3º;Menos de quatro milhões de clientes;Banco/financeira;92874270;BANCO A.J. RENNER S.A.; ;2;3;3;8;132457;29206;108875;3597
+2018;3º;Menos de quatro milhões de clientes;Banco/financeira;54403563;BANCO ARBI S.A.; ;3;1;1;5;8425;458;7995;206
+2018;3º;Menos de quatro milhões de clientes;Banco/financeira;997185;BANCO B3 S.A.; ;0;1;3;4;789;789; ;43
+2018;3º;Menos de quatro milhões de clientes;Banco/financeira;27098060;BANCO CBSS S.A.;26,05;24;67;106;197;921130; ;921130; 
+2018;3º;Menos de quatro milhões de clientes;Banco/financeira;2992446;BANCO CNH INDUSTRIAL CAPITAL S.A.; ;1;0;2;3;26413;1252;25554; 
+2018;3º;Mais de quatro milhões de clientes;Banco/financeira;8357240;BANCO CSF S.A.;5,87;25;121;103;249;4256399; ;4256399; 
+2018;3º;Menos de quatro milhões de clientes;Banco/financeira;4902979;BANCO DA AMAZONIA S.A.; ;4;5;4;13;501310;430323;161381;278441
+2018;3º;Menos de quatro milhões de clientes;Banco/financeira;5040481;BANCO DE LAGE LANDEN BRASIL S.A.; ;0;0;1;1;40538;2;40536; 
+2018;3º;Menos de quatro milhões de clientes;Banco/financeira;13009717;BANCO DO ESTADO DE SERGIPE S.A.; ;8;10;8;26;971049;852187;386648;656200
+2018;3º;Menos de quatro milhões de clientes;Banco/financeira;4913711;BANCO DO ESTADO DO PARÁ S.A.; ;10;28;41;79;710032;696331;231619;607646
+2018;3º;Mais de quatro milhões de clientes;Banco/financeira;7237373;BANCO DO NORDESTE DO BRASIL S.A.;0,29;2;13;35;50;6666785;6505323;1061466;5054710
+2018;3º;Menos de quatro milhões de clientes;Banco/financeira;58616418;BANCO FIBRA S.A.; ;4;1;8;13;167514;3718;164207;1130
+2018;3º;Menos de quatro milhões de clientes;Banco/financeira;62237425;BANCO FIDIS S/A; ;0;1;0;1;2431;261;2181; 
+2018;3º;Menos de quatro milhões de clientes;Banco/financeira;90731688;BANCO FORD S.A.; ;0;0;1;1;372;115;265; 
+2018;3º;Menos de quatro milhões de clientes;Banco/financeira;4866275;BANCO INBURSA S.A.; ;0;0;1;1;51;7;44;5
+2018;3º;Menos de quatro milhões de clientes;Banco/financeira;795423;BANCO SEMEAR S.A.; ;0;1;2;3;402111;3669;398613;1107
+2018;3º;Menos de quatro milhões de clientes;Banco/financeira;3215790;BANCO TOYOTA DO BRASIL S.A.; ;1;8;10;19;148874;15260;135099; 
+2018;3º;Menos de quatro milhões de clientes;Banco/financeira;17351180;BANCO TRIANGULO S.A.; ;10;14;9;33;1667111;169922;1513051;14066
+2018;3º;Menos de quatro milhões de clientes;Banco/financeira;15357060;BANCO WOORI BANK DO BRASIL S.A.; ;0;0;1;1;2560;2560;74;0
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;BANCOOB (conglomerado); ;9;18;15;42;2293999;1377164;1075841;0
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;BANESTES (conglomerado); ;8;22;10;40;1239517;1200290;328502;862259
+2018;3º;Mais de quatro milhões de clientes;Conglomerado; ;BANRISUL (conglomerado);15,81;73;385;179;637;4614851;3445580;2583698;2510314
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;BARIGUI (conglomerado); ;6;21;2;29;32083;911;31172; 
+2018;3º;Mais de quatro milhões de clientes;Conglomerado; ;BB (conglomerado);25,22;1590;2689;3768;8047;63027888;59361576;23046427;40039565
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;BMG (conglomerado);33,05;125;448;543;1116;3781509;58120;3764981;23187
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;BMW (conglomerado); ;0;0;4;4;20034;19921;17214; 
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;BNP PARIBAS (conglomerado);35,52;108;585;481;1174;3040090;17359;3023204;490095
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;BNY MELLON (conglomerado); ;0;0;1;1;39785;39785; ;1605
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;BOCOM (conglomerado); ;1;0;0;1;12454;10116;2547;1186
+2018;3º;Mais de quatro milhões de clientes;Conglomerado; ;BRADESCO (conglomerado);22,55;2151;3531;3802;9484;95352320;83403976;41086265;33849746
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;BRASIL PLURAL (conglomerado); ;0;1;0;1;3585;3584;22;833
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;BRB (conglomerado);91,51;79;122;131;332;863203;752591;370555;471960
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;BTG PACTUAL (conglomerado); ;0;3;0;3;108213;63098;45454;11626
+2018;3º;Mais de quatro milhões de clientes;Conglomerado; ;CAIXA ECONÔMICA FEDERAL (conglomerado);21,64;1950;3576;5429;10955;90088307;87247015;17670254;79022308
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;CAIXA GERAL (conglomerado); ;0;0;1;1;1378;1312;109;665
+2018;3º;Menos de quatro milhões de clientes;Banco/financeira;9313766;CARUANA S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;4;7;3;14;55983;50197;9392; 
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;CCB (conglomerado); ;1;123;49;173;284363;4806;280115;2206
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;CITIBANK (conglomerado); ;0;3;4;7;25345;19679;6453;3410
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;CREFISA (conglomerado); ;8;120;44;172;1539033;394429;1489480;0
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;DACASA FINANCEIRA (conglomerado); ;1;6;9;16;1289777; ;1289777; 
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;DAYCOVAL (conglomerado);109,02;99;269;134;502;908013;69217;845768;20838
+2018;3º;Menos de quatro milhões de clientes;Banco/financeira;15581638;FACTA FINANCEIRA S.A. - CRÉDITO FINANCIAMENTO E INVESTIMENTO;325,72;18;118;38;174;55261;554;54707; 
+2018;3º;Menos de quatro milhões de clientes;Banco/financeira;411939;FINAMAX S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO; ;0;4;1;5;98448;1996;96550; 
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;GMAC (conglomerado); ;1;25;36;62;398259;457;397893; 
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;GRUPO BONSUCESSO - BS2 (conglomerado); ;0;4;0;4;16974;4904;12259;1685
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;HERVAL - HS (conglomerado); ;1;0;0;1;235292;534;234820; 
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;HONDA (conglomerado); ;3;8;20;31;467505;23;467483; 
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;INDUSTRIAL DO BRASIL (conglomerado); ;10;16;11;37;57673;3892;54336;886
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;INDUSVAL (conglomerado); ;0;2;2;4; ; ; ;0
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;INTERMEDIUM (conglomerado);157,88;178;463;218;859;1127388;941703;363791;358951
+2018;3º;Mais de quatro milhões de clientes;Conglomerado; ;ITAU (conglomerado);18,18;1393;4096;3309;8798;76590668;58447755;42388893;40632385
+2018;3º;Menos de quatro milhões de clientes;Banco/financeira;4230630;JBCRED S.A. SOCIEDADE DE CREDITO, FINANCIAMENTO E INVESTIMENTO; ;1;3;7;11;119894; ;119894; 
+2018;3º;Menos de quatro milhões de clientes;Banco/financeira;11271860;LEBES FINANCEIRA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;0;0;1;1;2;2; ; 
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;LECCA (conglomerado); ;1;0;2;3;23396;942;22454; 
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;MÁXIMA (conglomerado); ;0;1;0;1;4674;3803;1012;1423
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;MERCANTIL DO BRASIL (conglomerado);5,98;16;109;120;245;2671375;2154623;1080657;1612995
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;MERCEDES-BENZ (conglomerado); ;0;1;0;1;21734;98;21719; 
+2018;3º;Mais de quatro milhões de clientes;Banco/financeira;9464032;MIDWAY S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO;4,67;35;96;102;233;7478787;45;7478757; 
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;MODAL (conglomerado); ;0;2;1;3;5097;4946;243;1448
+2018;3º;Menos de quatro milhões de clientes;Banco/financeira;4379829;NEGRESCO S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTOS; ;0;0;1;1;535307;638;534670; 
+2018;3º;Menos de quatro milhões de clientes;Banco/financeira;74828799;NOVO BANCO CONTINENTAL S.A. - BANCO MÚLTIPLO; ;1;8;9;18;31656;2966;29081;720
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;OMNI (conglomerado); ;12;55;68;135;3677861;2845;3675086;0
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;ORIGINAL (conglomerado);31,96;23;80;89;192;719512;642045;199267;147589
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;PAN (conglomerado);128,76;403;1227;1075;2705;3129779;18287;3113398;4010
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;PARANÁ BANCO (conglomerado);116,18;58;180;68;306;499202;6924;492489;3042
+2018;3º;Menos de quatro milhões de clientes;Banco/financeira;3311443;PARATI - CREDITO, FINANCIAMENTO E INVESTIMENTO S.A.; ;0;1;0;1;797; ;797; 
+2018;3º;Mais de quatro milhões de clientes;Banco/financeira;43180355;PERNAMBUCANAS FINANCIADORA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO;7,19;35;28;43;106;4864540; ;4864540; 
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;PINE (conglomerado); ;1;0;0;1;6541;5961;978;2432
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;PORTO SEGURO (conglomerado);32,95;48;65;71;184;1456481; ;1456481; 
+2018;3º;Menos de quatro milhões de clientes;Banco/financeira;1800019;PORTOCRED S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO; ;6;12;12;30;182265;3271;179000; 
+2018;3º;Menos de quatro milhões de clientes;Banco/financeira;27351731;REALIZE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.;29,66;26;36;39;101;876467;8;876459; 
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;RENDIMENTO (conglomerado); ;2;6;3;11;18374;12674;7219;4704
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;RODOBENS (conglomerado); ;0;1;9;10;14033;3745;11740;593
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;SAFRA (conglomerado);90,93;148;560;264;972;1627532;382034;1301666;108814
+2018;3º;Menos de quatro milhões de clientes;Banco/financeira;5503849;SANTANA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;1;1;1;3;29378;962;28417; 
+2018;3º;Mais de quatro milhões de clientes;Conglomerado; ;SANTANDER (conglomerado);22,1;933;3353;3664;7950;42206739;35725120;16948022;26814925
+2018;3º;Menos de quatro milhões de clientes;Banco/financeira;122327;SANTINVEST S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTOS; ;2;2;1;5;13999;344;13655; 
+2018;3º;Menos de quatro milhões de clientes;Banco/financeira;7747410;SAX S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;3;2;3;8;280222; ;280222; 
+2018;3º;Menos de quatro milhões de clientes;Banco/financeira;11970623;SENFF S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;0;0;1;1;65218;77;65144; 
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;SICREDI (conglomerado); ;0;2;3;5;3647185;3624013;125474;0
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;SOCIETE GENERALE (conglomerado); ;1;5;1;7;1060;809;327;54
+2018;3º;Menos de quatro milhões de clientes;Banco/financeira;3881423;SOCINAL S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;0;1;5;6;5175;3002;2173; 
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;SOCOPA (conglomerado); ;1;0;1;2;54416;39004;15623;2415
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;SOFISA (conglomerado); ;7;3;16;26;124732;113986;12381;43968
+2018;3º;Menos de quatro milhões de clientes;Banco/financeira;4814563;SOROCRED   CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.; ;7;27;32;66;314502;1414;313120; 
+2018;3º;Menos de quatro milhões de clientes;Banco/financeira;5192316;VIA CERTA FINANCIADORA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTOS; ;0;0;1;1;358757;451;358307; 
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;VOLKSWAGEN (conglomerado); ;0;30;54;84;370813;1395;369736; 
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;VOLVO (conglomerado); ;0;0;2;2;8889;85;8880; 
+2018;3º;Mais de quatro milhões de clientes;Conglomerado; ;VOTORANTIM (conglomerado);12,93;59;453;304;816;4562852;549852;4025908;8966
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;VR (conglomerado); ;1;0;0;1;74;74;1;29
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;WESTERN UNION (conglomerado); ;4;1;4;9;3;3; ;1
+2018;3º;Menos de quatro milhões de clientes;Conglomerado; ;YAMAHA MOTOR (conglomerado); ;0;1;8;9;135010;56;134956; 
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;AGIBANK (conglomerado);119;128;188;168;484;1075581;530138;772164;34664
+2018;4º;Menos de quatro milhões de clientes;Banco/financeira;36321990;AGORACRED S/A SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;1;0;0;1;250690;112;250578; 
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;ALFA (conglomerado); ;14;38;35;87;411710;268516;144681;0
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;ANDBANK (conglomerado); ;0;1;2;3;8203;2385;5827;0
+2018;4º;Menos de quatro milhões de clientes;Banco/financeira;23862762;AVISTA S.A. CRÉDITO, FINANCIAMENTO E INVESTIMENTO;25,66;21;32;17;70;818198;464956;491370; 
+2018;4º;Menos de quatro milhões de clientes;Banco/financeira;92874270;BANCO A.J. RENNER S.A.; ;3;6;8;17;137904;33969;113000;3597
+2018;4º;Menos de quatro milhões de clientes;Banco/financeira;54403563;BANCO ARBI S.A.; ;2;0;0;2;8609;450;8187;206
+2018;4º;Menos de quatro milhões de clientes;Banco/financeira;997185;BANCO B3 S.A.; ;0;0;2;2;780;780; ;43
+2018;4º;Menos de quatro milhões de clientes;Banco/financeira;27098060;BANCO CBSS S.A.;38,35;40;67;63;170;1042882; ;1042882; 
+2018;4º;Menos de quatro milhões de clientes;Banco/financeira;31597552;BANCO CLASSICO S.A.; ;0;0;1;1;19;19; ;13
+2018;4º;Mais de quatro milhões de clientes;Banco/financeira;8357240;BANCO CSF S.A.;7,18;32;100;95;227;4453364; ;4453364; 
+2018;4º;Menos de quatro milhões de clientes;Banco/financeira;4902979;BANCO DA AMAZONIA S.A.; ;8;3;3;14;502463;432311;160598;278441
+2018;4º;Menos de quatro milhões de clientes;Banco/financeira;5040481;BANCO DE LAGE LANDEN BRASIL S.A.; ;1;2;2;5;38980;2;38978; 
+2018;4º;Menos de quatro milhões de clientes;Banco/financeira;13009717;BANCO DO ESTADO DE SERGIPE S.A.; ;12;22;8;42;977751;857367;388960;656200
+2018;4º;Menos de quatro milhões de clientes;Banco/financeira;4913711;BANCO DO ESTADO DO PARÁ S.A.;34,85;25;28;22;75;717183;703548;231947;607646
+2018;4º;Mais de quatro milhões de clientes;Banco/financeira;7237373;BANCO DO NORDESTE DO BRASIL S.A.;0,88;6;10;35;51;6801381;6641817;1077977;5054710
+2018;4º;Menos de quatro milhões de clientes;Banco/financeira;58616418;BANCO FIBRA S.A.; ;4;5;4;13;166189;3764;162837;1130
+2018;4º;Menos de quatro milhões de clientes;Banco/financeira;61348538;BANCO FICSA S.A.; ;0;0;2;2;33981;617;33366;33
+2018;4º;Menos de quatro milhões de clientes;Banco/financeira;62237425;BANCO FIDIS S/A; ;1;0;0;1;931;215;727; 
+2018;4º;Menos de quatro milhões de clientes;Banco/financeira;90731688;BANCO FORD S.A.; ;0;1;2;3;387;137;261; 
+2018;4º;Menos de quatro milhões de clientes;Banco/financeira;59118133;BANCO LUSO BRASILEIRO S.A.; ;0;1;0;1;10585;4930;6077;1061
+2018;4º;Menos de quatro milhões de clientes;Banco/financeira;60498557;BANCO MUFG BRASIL S.A.; ;0;0;2;2;2862;2839;111;455
+2018;4º;Menos de quatro milhões de clientes;Banco/financeira;1023570;BANCO RABOBANK INTERNATIONAL BRASIL S.A.; ;0;0;1;1;3910;3630;1875;676
+2018;4º;Menos de quatro milhões de clientes;Banco/financeira;795423;BANCO SEMEAR S.A.; ;2;2;2;6;322145;3673;318620;1107
+2018;4º;Menos de quatro milhões de clientes;Banco/financeira;7679404;BANCO TOPÁZIO S.A.; ;1;2;5;8;15358;7909;9505;1598
+2018;4º;Menos de quatro milhões de clientes;Banco/financeira;3215790;BANCO TOYOTA DO BRASIL S.A.; ;2;0;11;13;155633;15273;141787; 
+2018;4º;Menos de quatro milhões de clientes;Banco/financeira;17351180;BANCO TRIANGULO S.A.;8,76;15;15;8;38;1712280;174852;1554061;14066
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;BANCOOB (conglomerado);9,94;24;26;24;74;2412762;1455434;1133791;0
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;BANESTES (conglomerado); ;11;11;14;36;1243939;1205104;330565;862259
+2018;4º;Menos de quatro milhões de clientes;Banco/financeira;33884941;BANIF - BANCO INTERNACIONAL DO FUNCHAL (BRASIL), S.A. - EM LIQUIDAÇÃO ORDINÁRIA; ;0;1;3;4;349;349; ; 
+2018;4º;Mais de quatro milhões de clientes;Conglomerado; ;BANRISUL (conglomerado);19,3;91;445;177;713;4713393;3500464;2627311;2510314
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;BARIGUI (conglomerado); ;3;12;5;20;32086;951;31135; 
+2018;4º;Mais de quatro milhões de clientes;Conglomerado; ;BB (conglomerado);24,98;1585;2726;3519;7830;63432189;59771870;23189574;40039565
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;BMG (conglomerado);63,97;249;347;500;1096;3892117;77788;3871013;23187
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;BMW (conglomerado); ;0;1;3;4;20052;19912;17184; 
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;BNP PARIBAS (conglomerado);95,45;288;517;469;1274;3017045;17399;3000165;490095
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;BOFA MERRILL LYNCH (conglomerado); ;0;0;2;2;1861;1856;66;712
+2018;4º;Mais de quatro milhões de clientes;Conglomerado; ;BRADESCO (conglomerado);23,52;2262;3665;4170;10097;96142413;84255792;41217678;33849746
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;BRASIL PLURAL (conglomerado); ;0;0;1;1;3809;3808;25;833
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;BRB (conglomerado);137,02;119;134;144;397;868443;758246;370942;471960
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;BTG PACTUAL (conglomerado); ;0;1;1;2;123401;78348;45413;11626
+2018;4º;Mais de quatro milhões de clientes;Conglomerado; ;CAIXA ECONÔMICA FEDERAL (conglomerado);18,92;1721;3345;4691;9757;90926718;88100057;17563365;79022308
+2018;4º;Menos de quatro milhões de clientes;Banco/financeira;9313766;CARUANA S.A. - SOCIEDADE DE CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;1;2;0;3;57128;51160;11216; 
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;CCB (conglomerado); ;1;91;39;131;275986;4471;272051;2206
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;CITIBANK (conglomerado); ;0;4;4;8;26256;19509;7557;3410
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;CREFISA (conglomerado); ;12;144;58;214;1576122;426180;1512087;0
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;DACASA FINANCEIRA (conglomerado); ;2;3;5;10;1031732; ;1031732; 
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;DAYCOVAL (conglomerado);20,71;19;283;95;397;917338;74824;849757;20838
+2018;4º;Menos de quatro milhões de clientes;Banco/financeira;15581638;FACTA FINANCEIRA S.A. - CRÉDITO FINANCIAMENTO E INVESTIMENTO;497,39;30;144;24;198;60314;565;59749; 
+2018;4º;Menos de quatro milhões de clientes;Banco/financeira;411939;FINAMAX S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO; ;0;3;2;5;98892;2016;96979; 
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;FINAXIS (conglomerado); ;0;0;1;1;4548;4548; ;401
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;GMAC (conglomerado); ;2;36;38;76;388008;463;387637; 
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;GOLDMAN SACHS (conglomerado); ;0;1;1;2;270;270;1; 
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;GRUPO BONSUCESSO - BS2 (conglomerado); ;1;6;5;12;17810;7607;10364;1685
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;HERVAL - HS (conglomerado); ;1;0;1;2;233856;539;233382; 
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;HONDA (conglomerado); ;1;12;18;31;473633;23;473610; 
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;INDUSTRIAL DO BRASIL (conglomerado); ;4;10;9;23;58692;3971;55280;886
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;INDUSVAL (conglomerado); ;1;0;0;1;4697;4078;957;1978
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;INTERMEDIUM (conglomerado);198,61;295;287;316;898;1485277;1306291;420536;358951
+2018;4º;Mais de quatro milhões de clientes;Conglomerado; ;ITAU (conglomerado);17,33;1339;4220;3494;9053;77253268;58849747;42893466;40632385
+2018;4º;Menos de quatro milhões de clientes;Banco/financeira;4230630;JBCRED S.A. SOCIEDADE DE CREDITO, FINANCIAMENTO E INVESTIMENTO; ;1;0;3;4;126140; ;126140; 
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;JOHN DEERE (conglomerado); ;0;1;0;1;14103;251;13913;51
+2018;4º;Menos de quatro milhões de clientes;Banco/financeira;6040559;KREDILIG S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;0;1;0;1;182851;4;182847; 
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;LECCA (conglomerado); ;2;1;3;6;21369;1066;20304; 
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;MÁXIMA (conglomerado); ;1;4;1;6;34130;3874;30400;1423
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;MERCANTIL DO BRASIL (conglomerado);21,53;58;115;85;258;2692880;2207530;1061261;1612995
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;MERCEDES-BENZ (conglomerado); ;0;1;2;3;21199;99;21183; 
+2018;4º;Mais de quatro milhões de clientes;Banco/financeira;9464032;MIDWAY S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO;6,04;46;128;76;250;7607268;44;7607240; 
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;MODAL (conglomerado);1.827,79;56;13;18;87;30638;30517;573;1448
+2018;4º;Menos de quatro milhões de clientes;Banco/financeira;74828799;NOVO BANCO CONTINENTAL S.A. - BANCO MÚLTIPLO; ;7;9;8;24;36705;2972;34119;720
+2018;4º;Mais de quatro milhões de clientes;Conglomerado; ;OMNI (conglomerado);12,42;51;45;76;172;4105053;2731;4102401;0
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;ORIGINAL (conglomerado);49,05;37;106;69;212;754184;678042;207426;147589
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;OURINVEST (conglomerado); ;0;0;1;1;25178;22432;2761;10
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;PAN (conglomerado);291,54;941;1507;798;3246;3227673;18951;3210681;4010
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;PARANÁ BANCO (conglomerado);136,15;47;176;43;266;345186;7114;338284;3042
+2018;4º;Menos de quatro milhões de clientes;Banco/financeira;3311443;PARATI - CREDITO, FINANCIAMENTO E INVESTIMENTO S.A.; ;0;1;1;2;787; ;787; 
+2018;4º;Menos de quatro milhões de clientes;Banco/financeira;43180355;PERNAMBUCANAS FINANCIADORA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO;24,07;59;38;38;135;2451125; ;2451125; 
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;PINE (conglomerado); ;0;0;2;2;7965;6290;2098;2432
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;PORTO SEGURO (conglomerado);40,49;59;85;75;219;1457127; ;1457127; 
+2018;4º;Menos de quatro milhões de clientes;Banco/financeira;1800019;PORTOCRED S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTO; ;13;43;42;98;188991;3503;185493; 
+2018;4º;Menos de quatro milhões de clientes;Banco/financeira;27351731;REALIZE CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.;23,05;22;29;24;75;954338;8;954330; 
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;RENDIMENTO (conglomerado); ;3;10;6;19;18625;13359;6816;4704
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;RODOBENS (conglomerado); ;0;0;5;5;13468;3146;11474;593
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;SAFRA (conglomerado);95,92;165;457;302;924;1720126;416702;1362342;108814
+2018;4º;Menos de quatro milhões de clientes;Banco/financeira;5503849;SANTANA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;1;1;7;9;29202;1029;28174; 
+2018;4º;Mais de quatro milhões de clientes;Conglomerado; ;SANTANDER (conglomerado);24,04;1033;3100;2945;7078;42967534;36201723;17648787;26814925
+2018;4º;Menos de quatro milhões de clientes;Banco/financeira;122327;SANTINVEST S.A. - CREDITO, FINANCIAMENTO E INVESTIMENTOS; ;4;0;1;5;13625;410;13215; 
+2018;4º;Menos de quatro milhões de clientes;Banco/financeira;7747410;SAX S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;3;1;3;7;459169; ;459169; 
+2018;4º;Menos de quatro milhões de clientes;Banco/financeira;11970623;SENFF S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;1;0;1;2;65033;75;64963; 
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;SICREDI (conglomerado); ;1;2;0;3;3803666;3780655;131207;0
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;SOCIETE GENERALE (conglomerado); ;1;5;2;8;970;711;331;54
+2018;4º;Menos de quatro milhões de clientes;Banco/financeira;3881423;SOCINAL S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTO; ;1;1;7;9;5849;3318;2531; 
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;SOCOPA (conglomerado); ;0;4;0;4;55458;40036;15645;2415
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;SOFISA (conglomerado); ;11;4;16;31;131848;121114;12497;43968
+2018;4º;Menos de quatro milhões de clientes;Banco/financeira;4814563;SOROCRED   CRÉDITO, FINANCIAMENTO E INVESTIMENTO S.A.; ;13;16;34;63;304916;1379;303569; 
+2018;4º;Menos de quatro milhões de clientes;Banco/financeira;5192316;VIA CERTA FINANCIADORA S.A. - CRÉDITO, FINANCIAMENTO E INVESTIMENTOS; ;0;0;1;1;380906;560;380348; 
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;VOLKSWAGEN (conglomerado); ;7;31;34;72;367296;1395;366212; 
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;VOLVO (conglomerado); ;0;0;1;1;8589;83;8580; 
+2018;4º;Mais de quatro milhões de clientes;Conglomerado; ;VOTORANTIM (conglomerado);12,15;59;318;271;648;4853414;859759;4013985;8966
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;WESTERN UNION (conglomerado); ;8;1;0;9;3;3; ;1
+2018;4º;Menos de quatro milhões de clientes;Conglomerado; ;YAMAHA MOTOR (conglomerado); ;0;6;7;13;141441;60;141385; 
