@@ -8,4 +8,4 @@ Você pode interagir com o relatório através deste [link](https://app.powerbi.
 ### Sobre os dados
 A fonte dos dados você encontrará no site dados.gov.br através deste [link](http://dados.gov.br/dataset/ranking-de-instituicoes-por-indice-de-reclamacoes).
 
-![video](https://vimeo.com/359152287)
+![gif](https://github.com/anacarolinatvres/reclamacoes-inst-financeiras/blob/master/gif/reclamacoes.gif)
